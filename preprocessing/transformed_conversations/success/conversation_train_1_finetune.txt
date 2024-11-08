@@ -1,0 +1,24 @@
+[START DATE]
+    2024-02-23
+    [END DATE]
+    2024-04-26
+    [CHAT MESSAGES]
+    2024-02-23 10:15 | You: Hello Mrs. Parker, how have you been?
+2024-02-23 10:16 | Dr. Peters: Hello Dr. Peters. Just fine thank you. Ricky and I are here for his vaccines.
+2024-02-23 10:17 | You: Very well. Let's see, according to his vaccination record, Ricky has received his Polio, Tetanus and Hepatitis B shots. He is 14 months old, so he is due for Hepatitis A, Chickenpox and Measles shots.
+2024-02-23 10:18 | Dr. Peters: What about Rubella and Mumps?
+2024-02-23 10:19 | You: Well, I can only give him these for now, and after a couple of weeks I can administer the rest.
+2024-02-23 10:20 | Dr. Peters: OK, great. Doctor, I think I also may need a Tetanus booster. Last time I got it was maybe fifteen years ago!
+2024-02-23 10:21 | You: We will check our records and I'll have the nurse administer and the booster as well. Now, please hold Ricky's arm tight, this may sting a little.
+2024-03-15 11:30 | You: Hello Mrs. Parker, Ricky is all set with his remaining vaccinations.
+2024-03-15 11:31 | Dr. Peters: Excellent, thank you so much. And I was able to get the Tetanus booster as well. I appreciate you taking care of that for me.
+2024-03-15 11:32 | You: Absolutely, it's important to stay up-to-date on those preventative measures. Let me know if there's anything else I can do for you both.
+2024-04-26 09:45 | Dr. Peters: Hi Dr. Peters, just bringing Ricky in for his routine checkup.
+2024-04-26 09:46 | You: Great, let's take a look. Everything looks good, no concerns to address. Keep up the great work with his care.
+2024-04-26 09:47 | Dr. Peters: Wonderful, thank you so much. We'll see you again soon.
+    [SUMMARY]
+    Here's a summary of your interactions with Dr. Peters over the past few months. Back in late February, you and Mrs. Parker brought Ricky in for his routine vaccinations. Dr. Peters reviewed Ricky's records and determined he was due for several shots, including Hepatitis A, Chickenpox, and Measles. You also discussed Mrs. Parker potentially needing a Tetanus booster, as it had been about 15 years since her last one. 
+
+A few weeks later in mid-March, you followed up with Dr. Peters to administer the remaining vaccines for Ricky. During that visit, you were able to provide the Tetanus booster for Mrs. Parker as well. It's great that you were able to get Ricky fully up to date on his immunizations and that Mrs. Parker was able to take care of her own vaccine needs at the same time. Staying on top of these preventative healthcare measures is so important, especially for young children.
+
+Just last week in late April, Mrs. Parker brought Ricky back for a routine check-up. Everything looked good, and Dr. Peters didn't see any issues that required additional treatment or follow-up. It's reassuring to know that Ricky is developing healthily and that you've been proactive in keeping him protected through his vaccination schedule.

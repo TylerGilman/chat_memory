@@ -1,0 +1,23 @@
+[START DATE]
+    2024-05-06
+    [END DATE]
+    2024-07-18
+    [CHAT MESSAGES]
+    2024-05-06 10:22 | You: Did Bean send these dirty jokes to you, too? Look!
+2024-05-06 10:25 | [Person2]: What a creep! Phony good luck e-mails are one thing, but sexual harassment is crossing the line.
+2024-05-06 10:28 | You: No wonder he asked for my address first-he just wants to harass me!
+2024-05-06 10:31 | [Person2]: You could try using a spam filter to reject stuff that's obviously pornographic or anything else you don't want.
+2024-05-20 15:42 | You: Bean is still sending me those awful emails. I can't believe he's escalating this.
+2024-05-20 15:45 | [Person2]: That's terrible. Have you thought about reporting his behavior to the authorities? You shouldn't have to deal with this harassment.
+2024-05-20 15:50 | You: I'm worried that will just make him angrier. I don't know what to do.
+2024-05-20 15:53 | [Person2]: I know it's a difficult situation, but your safety has to be the priority here. Maybe we can look into legal options together?
+2024-06-03 09:17 | [Person2]: Just checking in - how are you holding up with the Bean situation?
+2024-06-03 09:21 | You: Not great. He asked for my home address again yesterday, and I'm starting to feel really unsafe.
+2024-06-03 09:25 | [Person2]: That's unacceptable. I really think you need to report this to the police before it gets any worse. I'm happy to go with you if you'd like the support.
+2024-06-03 09:30 | You: Okay, I'll do it. I can't keep living in fear like this. Thank you for being here for me.
+2024-07-18 16:02 | [Person2]: I saw that the police got involved with the Bean situation. How did it go?
+2024-07-18 16:07 | You: It was a huge relief. They took it seriously and said they're building a case against him. I feel so much safer now.
+2024-07-18 16:12 | [Person2]: I'm so glad to hear that. You've been through so much, but I'm proud of you for taking that step. Hopefully this will put an end to Bean's harassment for good.
+2024-07-18 16:17 | You: Me too. Thank you again for all your support - I couldn't have done this without you.
+    [SUMMARY]
+    Here's a summary of your interactions with [Person2] over the past few months regarding the harassment you've been facing from Bean. Back in early May, you first reached out to [Person2] about the inappropriate and explicit emails Bean had been sending you. [Person2] was appalled and suggested using a spam filter to block that kind of content. Over the following weeks, the situation with Bean escalated, as he continued to bombard you with more harassing messages and even asked for your home address. [Person2] has been a supportive sounding board throughout this ordeal, providing advice and encouragement as you've tried to put a stop to Bean's behavior. Just last week, you two discussed potential next steps, like reporting the harassment to the authorities. I know this has been a very stressful and upsetting experience for you, but [Person2] has been in your corner, and I'm hopeful that with their continued support, you'll be able to put an end to Bean's harassment soon.

@@ -1,0 +1,30 @@
+[START DATE]
+    2024-04-05
+    [END DATE]
+    2024-06-14
+    [CHAT MESSAGES]
+    2024-04-05 19:30 | You: Are you still watching the soap opera, Nancy?
+2024-04-05 19:32 | Nancy: Yeah. I can't take my eyes off that when it is on.
+2024-04-05 19:35 | You: Is it that appealing?
+2024-04-05 19:38 | Nancy: Well, the cast of the opera isn't very strong and the story isn't so impressive, but the main actor's acting is really outstanding, who is handsome, too.
+2024-04-05 19:42 | You: Shall we think you need a break right now? There is a football match on channel eight.
+2024-04-05 19:45 | Nancy: Oh, stop talking about that stupid match. I really don't understand why certain people are running after one ball.
+2024-04-05 19:50 | You: If we can choose program, I'd rather watch the documentary, this kind of soap opera is really boring.
+2024-04-05 19:53 | Nancy: Everyone has his own taste. And have you ever heard of the saying, 'One man's meat is another's poison.'
+2024-04-05 20:00 | You: But you been in front of TV for almost 5 hours, even at dinner time. I had to say you were the most selfish person I have ever seen.
+2024-04-05 20:05 | Nancy: Well, well, watch channel.
+2024-05-03 20:15 | Nancy: I'm watching my soap opera again tonight. You can go watch your football match if you want.
+2024-05-03 20:18 | You: Nancy, we need to find a compromise. This can't go on forever with you hogging the TV every evening.
+2024-05-03 20:22 | Nancy: Compromise? What compromise? I'm the one who enjoys this show. If you don't like it, you can go to another room.
+2024-05-03 20:27 | You: That's not fair. We both live here and should be able to agree on what to watch together sometimes.
+2024-05-03 20:32 | Nancy: Well, that's not going to happen. My show is more important to me. End of discussion.
+2024-06-14 19:00 | You: Nancy, the football match is starting soon on channel 8. Can we watch that tonight?
+2024-06-14 19:03 | Nancy: Ugh, not that again. I told you, I'm not interested in watching grown men chase a ball around.
+2024-06-14 19:07 | You: But I hardly ever get to watch the matches. Please, can we just try it for tonight?
+2024-06-14 19:12 | Nancy: No way. I'm comfortable right here watching my show. If you want to watch the match, go do it in another room.
+2024-06-14 19:15 | You: This is so frustrating. We never compromise anymore. I feel like I'm living with a selfish, stubborn person.
+2024-06-14 19:18 | Nancy: Well, that's your problem, not mine. I'm going to keep watching what I want to watch.
+    [SUMMARY]
+    Here's a summary of your interactions with Nancy over the past few months. Back in early April, you two were having a disagreement about what to watch on TV. Nancy was glued to a soap opera, while you wanted to watch a football match or a documentary instead. You felt she was being selfish, spending hours in front of the TV, even during dinner time. The tension escalated as you tried to convince her to take a break, but she stubbornly refused. 
+
+Over the next couple of months, this TV viewing conflict continued to be a source of friction between you two. Just last week, you had another heated exchange where Nancy again dismissed your interest in the football match, insisting that everyone has their own taste. It seems like you two have been struggling to find a compromise and balance your TV viewing preferences. The situation has not improved much, and I would encourage you to have an open and honest discussion with Nancy to try to resolve this ongoing issue. Addressing it head-on may help prevent further strain on your relationship.
