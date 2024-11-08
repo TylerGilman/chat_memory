@@ -1,0 +1,36 @@
+[START DATE]
+2024-04-08
+[END DATE]
+2024-06-18
+[CHAT MESSAGES]
+2024-04-08 13:02 | You: Is that true?
+2024-04-08 13:02 | Sarah: I guess so. Now Anna's got four kids and another on the way.
+2024-04-08 13:03 | You: Wow. She looks good for having had that many kids. She's pregnant and wearing Prada!
+2024-04-08 13:04 | Sarah: That's Anna for you. She keeps up the image of the stylish Italian woman. Here she comes.
+2024-04-08 13:04 | You: She's glowing. It must be the pregnancy.
+2024-04-08 13:05 | Sarah: Yeah, or the expensive Italian facial treatments.
+2024-04-15 10:15 | You: Hey, did Anna reveal if she's having a boy or girl?
+2024-04-15 10:22 | Sarah: Not officially, but based on her shopping bags lately, I think it's a girl. Lots of little dresses and bows!
+2024-05-03 16:47 | You: Any updates on Anna's pregnancy?
+2024-05-03 16:50 | Sarah: She confirmed it's a girl! And she's planning the most over-the-top Italian-themed baby shower. Think pasta bar and gelato cart.
+2024-05-03 16:52 | You: That sounds so on-brand for Anna. She never does anything halfway!
+2024-05-26 09:01 | Sarah: You'll never believe what Anna wore to our exec meeting... 4-inch Louboutin heels. At 7 months pregnant! My feet hurt just looking at her.
+2024-05-26 09:04 | You: That's our Anna. She'd rather suffer than compromise on style. Stubborn as always.
+2024-05-26 09:06 | Sarah: I just hope she doesn't go into labor in the conference room. Those heels are a hazard!
+2024-06-13 14:36 | Sarah: <photo1.jpg> <photo2.jpg> Check out pics from Anna's baby shower! Told you she was going all out.
+2024-06-13 14:38 | You: Wow, that dessert spread looks incredible! Leave it to Anna to have the fanciest baby shower in town.
+2024-06-13 14:40 | Sarah: I'm still dreaming about that gelato. Delizioso!
+2024-06-18 11:19 | You: How's Anna doing? She must be getting close to her due date.
+2024-06-18 11:24 | Sarah: She started her maternity leave on Friday. I think she's secretly relieved to be off her feet finally. Those heels were killer.
+2024-06-18 11:26 | You: Hah, I bet! Can't wait to meet little baby Francesca soon. Think Anna will finally embrace stretchy pants and flats?
+2024-06-18 11:28 | Sarah: Hmm...I give it a month, tops. Then it's back to Prada and Louboutins, baby on her hip!
+[SUMMARY]
+Here's a summary of your interactions with Sarah over the past few months regarding your mutual friend Anna's pregnancy and fashion choices:
+
+Back in early April, you and Sarah had an in-person conversation where you expressed surprise that Anna was pregnant with her fifth child but still looking stylish in Prada. Sarah noted that Anna always maintains her fashionable image, attributing it to her Italian roots and perhaps expensive facial treatments. 
+
+A week later, you messaged Sarah asking if Anna had revealed the baby's gender yet. Sarah said not officially, but she suspects it's a girl based on how Anna has been shopping. In early May, you checked in again, and Sarah confirmed Anna is expecting a girl and planning an elaborate Italian-themed baby shower.
+
+Three weeks ago, Sarah messaged you frustrated that Anna is still wearing 4-inch heels to work at 7 months pregnant. You noted that Anna has always been stubborn about compromising her style for anything. Last Tuesday, Sarah shared photos from Anna's extravagant baby shower, complete with a pasta bar and gelato cart. You both agreed Anna really went all out.
+
+This morning, you reached out to Sarah again to see how Anna is doing. Sarah said Anna started her maternity leave and is probably relieved to finally be able to relax. You're both excited to meet baby Francesca soon and curious to see if motherhood will finally get Anna to adopt stretchy pants, at least for a little while.

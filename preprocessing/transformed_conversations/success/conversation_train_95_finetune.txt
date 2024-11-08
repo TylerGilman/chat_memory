@@ -1,0 +1,35 @@
+[START DATE]
+2024-04-19
+[END DATE]
+2024-06-16
+[CHAT MESSAGES]
+2024-04-19 15:32 | You: Let's plan the dinner for the end of the year.
+2024-04-19 15:35 | Sam: I've been talking to some of the other kids in the class and quite a few of them want to go to a pizza restaurant.
+2024-04-19 15:37 | You: Um, I think I've had enough of pizza. I eat it at least twice a week, it be good to have something different.
+2024-04-19 15:39 | Sam: Well, there's that Chinese restaurant. The bamboo house.
+2024-04-19 15:41 | You: It's closing next week for a month. They're going to build a new kitchen or something. I remember going to someplace with a singer and guitarist. And it was great.
+2024-04-19 15:44 | Sam: But there will be at least 20 of us, will be so noisy that we won't hear the music.
+2024-04-19 15:47 | You: You're right. Hey, we haven't thought about the cost. Some people will want to go to a cheap place, and others can afford somewhere more expensive.
+2024-04-19 15:50 | Sam: Why don't we fix the amount first and ask a restaurant to provide a meal for that price?
+2024-04-19 15:52 | You: That's a good idea. And we can make a list of the places we think our best, and get the rest of the class to choose one.
+2024-05-03 11:14 | You: Hey Sam, I've been thinking more about the restaurant options for the class dinner. What do you think is a reasonable per person budget?
+2024-05-03 11:20 | Sam: Based on what I've heard, seems like $25-30 per person is what most are comfortable with. Sound okay to you?
+2024-05-03 11:23 | You: Yeah, that range should give us some solid options without being too pricey. Let's aim for that when we request quotes.
+2024-05-03 11:25 | Sam: 👍 I'll work on a list of possible places and share it with you by Monday. Then we can divide and conquer to get pricing.
+2024-05-03 11:28 | You: Perfect, thanks Sam! I appreciate you taking the lead on getting that list together.
+2024-05-15 13:03 | Sam: Okay, we've got quotes from 5 places that can do a multi-course meal in our price range for 20-25 people. I'll send the list to the class for a vote.
+2024-05-15 13:05 | You: Awesome! I'm so glad we got such a good response. I trust our classmates to pick a tasty option.
+2024-05-15 13:09 | Sam: For sure. Hey, I wanted to double check - the dinner is Friday, June 28th at 7pm, right?
+2024-05-15 13:11 | You: Yep, that's the plan! End of year celebration dinner on the 28th at 7. I've got it in my calendar 📅
+2024-05-15 13:14 | Sam: Great, just wanted to make sure we're on the same page. I'll include those details in the vote email. Thanks again for all your help planning this!
+2024-05-15 13:17 | You: Happy to help! It'll be a really fun way to wrap up the school year. Looking forward to it!
+2024-06-16 17:36 | Sam: Just got the final tally - Riverside Grill won the vote by a landslide! I called and confirmed the reservation for 7pm on the 28th. We're all set!
+2024-06-16 17:39 | You: Oh that's fantastic! Riverside Grill is supposed to be really good. I'm so excited for this dinner, and really appreciate all your hard work making it happen!
+2024-06-16 17:42 | Sam: Couldn't have done it without you! I think everyone's going to have a blast. One last hurrah before summer break!
+2024-06-16 17:45 | You: Absolutely! 🎉 See you in class tomorrow - one more week to go. Then we can celebrate an awesome year and sendoff at Riverside!
+[SUMMARY]
+Here's a summary of your interactions with Sam regarding planning the class dinner over the last couple months. 
+Back in mid-April, about two months ago, you and Sam first discussed potential restaurant options, with some classmates favoring pizza while you preferred trying something different. Sam mentioned the Bamboo House but you pointed out it would be closed for renovations. You remembered a nice place with live music but agreed it wouldn't work well for a large, lively group. 
+A few weeks later in early May, you wisely raised the issue of cost, realizing people had different budget constraints. Sam had the great idea to set a fixed price and find a restaurant willing to accommodate that. You suggested making a list of options and having the class vote.
+As May progressed, you worked together to compile a restaurant short list and get quotes. Last week, the class selected Riverside Grill as the best choice. Just yesterday, Sam confirmed the reservation details with you for the dinner taking place next Friday, June 28th. 
+It's been a productive collaboration over the past two months, from the initial brainstorming in April, through the May planning phase, to now having everything settled here in mid-June. You've done well working as a team to consider everyone's preferences, proactively address potential issues like budget and group size, and make a democratic final decision. The class dinner should be a great event to celebrate the end of the school year together!
