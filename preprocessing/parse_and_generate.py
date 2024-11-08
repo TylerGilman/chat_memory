@@ -39,44 +39,83 @@ class ConversationProcessor:
 
         self.prompt_template = """As an AI assistant summarizing your chat history, I am speaking directly to you (Person1 in the original conversation). Generate today's date (between 2024-01-01 and 2024-12-31) and help me summarize your important conversation history with {other_person}.
 
-    Input Conversation:
-    {dialogue}
+Input Conversation:
+{dialogue}
 
-    Context:
-    This conversation was about {topic}. 
-    Original summary: {summary}
+Context:
+This conversation was about {topic}. 
+Original summary: {summary}
 
-    Task:
-    1. First, generate a current date (today) between 2024-01-01 and 2024-12-31 when this summary is being created.
-    2. Then, generate 3-4 conversations that occurred before this date, spanning a realistic period (anywhere from 1 week to 6 months prior to today's date).
-    3. Transform the original face-to-face dialogue into the first message exchange
-    4. Create follow-up conversations that show how the situation developed
-    5. End with a personal summary to "you" (Person1) that:
-       - Mentions today's date when the summary is being made
-       - References how long ago each conversation happened
-       - Highlights the progression of events from your perspective
-       - Explains the significance of key developments
-       - Uses time markers like "last week", "three months ago", "earlier this spring"
+Conversation Length Guidance: {length_guidance}
 
-    Format your response as:
-    [TODAY'S DATE]
-    YYYY-MM-DD
+Task:
+1. First, generate a current date (today) between 2024-01-01 and 2024-12-31 when this summary is being created.
+2. Then, create a series of related conversations that occurred before this date:
+   - Show realistic time gaps between messages
+   - Include both quick exchanges and detailed discussions
+   - Match the suggested length and complexity
+3. Transform the original face-to-face dialogue into the first message exchange
+4. Create follow-up conversations that:
+   - Show deeper character development
+   - Include realistic complications or developments
+   - Reference previous conversations naturally
+   - Match the tone and complexity of the topic
+5. End with a personal summary to "you" (Person1) that:
+   - Mentions today's date when the summary is being made
+   - References how long ago each significant event happened
+   - Highlights the progression of events from your perspective
+   - Explains the significance of key developments
+   - Uses varied time markers like "last week", "three months ago", "earlier this spring"
 
-    [COMPREHENSIVE SUMMARY FOR YOU]
-    Starting with "Here's a summary of your interactions with [Person2]..." provide a detailed paragraph describing the sequence of events from your perspective, including clear temporal references.
+Format your response as:
+[TODAY'S DATE]
+YYYY-MM-DD
 
-    [CONVERSATIONS]
-    [Date: YYYY-MM-DD]
-    [HH:MM] You: message
-    [HH:MM] {other_person}: message
+[COMPREHENSIVE SUMMARY FOR YOU]
+Starting with "Here's a summary of your interactions with [Person2]..." provide a detailed paragraph describing the sequence of events from your perspective, including clear temporal references.
 
-    [Date: YYYY-MM-DD]
-    [HH:MM] {other_person}: message
-    [HH:MM] You: message
-    (continue for all conversations)
+[CONVERSATIONS]
+[Date: YYYY-MM-DD]
+[HH:MM] You: message
+[HH:MM] {other_person}: message"""
 
-    For example: If today is 2024-05-15, you might reference a first conversation from "three months ago in February", a follow-up "six weeks ago in late March", and the most recent exchange "just last week in early May."
-    """
+    def _determine_conversation_length(self, topic: str, conversation_id: str) -> str:
+        """Determine the desired conversation length based on topic and ID."""
+        # Topics that typically require longer conversations
+        long_conversation_topics = {
+            "health",
+            "medical",
+            "relationship",
+            "career",
+            "education",
+        }
+        # Topics that are usually shorter
+        short_conversation_topics = {"directions", "order", "quick question", "find"}
+
+        # Use conversation_id to add randomness while keeping it deterministic
+        seed = sum(ord(c) for c in conversation_id)
+
+        topic_words = set(topic.lower().split())
+
+        if topic_words & long_conversation_topics:
+            base_length = "extended"
+        elif topic_words & short_conversation_topics:
+            base_length = "short"
+        else:
+            base_length = "medium"
+
+        # Use the seed to occasionally override the base length
+        if seed % 3 == 0:
+            if base_length == "short":
+                return """Create a brief exchange spanning 1-2 weeks with 2-3 focused conversations."""
+            elif base_length == "medium":
+                return """Generate a typical interaction spanning 1-2 months with 4-5 conversations showing good development."""
+            else:
+                return """Develop an extended interaction over 3-6 months with 6-8 detailed conversations showing significant progression."""
+        elif seed % 3 == 1:
+            return """Create an extended, detailed exchange spanning several months. Include 6-8 conversations with rich character development, complex situations, and meaningful progression. Show both quick check-ins and lengthy, detailed discussions."""
+        else:
+            return """Generate a moderate-length exchange over 1-2 months. Include 4-5 conversations that balance detail with conciseness."""
 
     def _load_progress(self) -> set:
         """Load set of already processed conversation IDs."""
@@ -172,13 +211,13 @@ class ConversationProcessor:
 
         # Create the complete formatted string
         formatted_output = f"""[START DATE]
-    {start_date}
-    [END DATE]
-    {end_date}
-    [CHAT MESSAGES]
-    {formatted_messages}
-    [SUMMARY]
-    {parsed_response['personal_summary']}"""
+{start_date}
+[END DATE]
+{end_date}
+[CHAT MESSAGES]
+{formatted_messages}
+[SUMMARY]
+{parsed_response['personal_summary']}"""
 
         return formatted_output
 
@@ -204,7 +243,7 @@ class ConversationProcessor:
                 f.write(finetuning_format)
 
     def process_single_conversation(self, row: pd.Series) -> Dict:
-        """Process a single conversation through Claude API."""
+        """Process a single conversation through Claude API using Opus model."""
         conversation_id = str(row["id"])
 
         if conversation_id in self.processed_ids:
@@ -225,16 +264,22 @@ class ConversationProcessor:
                         break
                 break
 
+        # Get length guidance
+        length_guidance = self._determine_conversation_length(
+            row["topic"], conversation_id
+        )
+
         prompt = self.prompt_template.format(
             dialogue=row["dialogue"],
             topic=row["topic"],
             summary=row["summary"],
             other_person=other_person,
+            length_guidance=length_guidance,
         )
 
         try:
             response = self.client.messages.create(
-                model="claude-3-haiku-20240307",
+                model="claude-3-opus-20240229",  # Using the most advanced model
                 max_tokens=4096,
                 temperature=0.7,
                 messages=[{"role": "user", "content": prompt}],
@@ -272,12 +317,56 @@ class ConversationProcessor:
             print(f"Error processing conversation {conversation_id}: {str(e)}")
             return None
 
+    def _save_as_jsonl(self, result: Dict, success: bool):
+        """Save finetuning format results in JSONL format."""
+        status_dir = self.output_dir / ("success" if success else "errors")
+        status_dir.mkdir(exist_ok=True)
+
+        # Save original format JSON
+        original_file = (
+            status_dir / f"conversation_{result['original_id']}_original.json"
+        )
+        with open(original_file, "w") as f:
+            json.dump(result, f, indent=2)
+
+        if success:
+            # Convert to training format
+            finetuning_format = self._convert_to_finetuning_format(
+                result["transformed_conversations"]
+            )
+
+            # Create JSONL format
+            jsonl_entry = {
+                "id": result["original_id"],
+                "start_date": result["transformed_conversations"]["conversations"][0][
+                    "date"
+                ],
+                "end_date": result["transformed_conversations"]["conversations"][-1][
+                    "date"
+                ],
+                "messages": [
+                    {"timestamp": msg["timestamp"], "content": msg["content"]}
+                    for conv in result["transformed_conversations"]["conversations"]
+                    for msg in conv["messages"]
+                ],
+                "summary": result["transformed_conversations"]["personal_summary"],
+            }
+
+            # Append to JSONL file
+            jsonl_file = self.output_dir / "training_data.jsonl"
+            with open(jsonl_file, "a") as f:
+                f.write(json.dumps(jsonl_entry) + "\n")
+
     def process_all_conversations(
         self, df: pd.DataFrame, batch_size: int = 5
     ) -> List[Dict]:
         """Process all conversations with rate limiting and batching."""
-        all_results = []
+        # Clear existing JSONL file at start of processing
+        jsonl_file = self.output_dir / "training_data.jsonl"
+        if jsonl_file.exists():
+            jsonl_file.unlink()
 
+        all_results = []
         for i in range(0, len(df), batch_size):
             batch = df.iloc[i : i + batch_size]
             batch_results = []
@@ -285,6 +374,7 @@ class ConversationProcessor:
             for _, row in batch.iterrows():
                 result = self.process_single_conversation(row)
                 if result:
+                    self._save_as_jsonl(result, success=True)
                     batch_results.append(result)
                 time.sleep(2)
 
