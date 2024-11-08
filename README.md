@@ -43,12 +43,14 @@ chat_memory/
   INPUT_CSV=preprocessing/input/no_timestamps.csv
   NUM_ROWS_TO_PROCESS=2
   ```
-
+- Original dataset: \ `https://www.kaggle.com/datasets/marawanxmamdouh/dialogsum` (MIT License)
 - `input/no_timestamps.csv`: Original conversation data with columns:
   - `id`: Unique identifier
   - `dialogue`: Conversation text
   - `summary`: Brief summary
   - `topic`: Main topic
+
+## Fine tuning outputs are in chat_memory/preprocessing/transformed_conversations/sucess
 
 ### Setup and Installation
 1. Create preprocessing directory and move files:
