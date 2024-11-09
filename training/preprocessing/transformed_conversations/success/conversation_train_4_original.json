@@ -1,0 +1,96 @@
+{
+  "original_id": "train_4",
+  "topic": "dance",
+  "original_summary": "Malik invites Nikki to dance. Nikki agrees if Malik doesn't mind getting his feet stepped on.",
+  "transformed_conversations": {
+    "today_date": "2024-05-17",
+    "personal_summary": "Here's a summary of your interactions with Wen over the past couple months, Malik. You first met her and her friend Nikki at a dance club back in early March. Despite Nikki's hesitation about her dancing skills, you convinced her to join you on the dance floor. The next day, you followed up with Wen to get Nikki's number. After texting back and forth with Nikki for a few weeks, you went on your first official date in early April. Things seemed to be going well, but then Nikki got unexpectedly busy with work and family matters. You didn't hear much from her for almost a month, until she reached out again last week to apologize and meet up. Earlier this week, you had a great date exploring the city together and really seemed to rekindle the spark. Now it's mid-May and you're excited to see where things go with Nikki from here.",
+    "conversations": [
+      {
+        "date": "2024-03-05",
+        "messages": [
+          {
+            "timestamp": "2024-03-05 11:47 PM",
+            "content": "You: Hey Wen, it was great meeting you and Nikki tonight! Think I could get her number from you? I'd love to stay in touch."
+          },
+          {
+            "timestamp": "2024-03-05 12:03 AM",
+            "content": "Wen: For sure, Malik! I'll send it over. Nikki had a blast dancing with you. Definitely reach out to her!"
+          }
+        ]
+      },
+      {
+        "date": "2024-03-06",
+        "messages": [
+          {
+            "timestamp": "2024-03-06 10:14 AM",
+            "content": "You: Morning Nikki! Malik here, from the club last night. How are those feet doing? \ud83d\ude09"
+          },
+          {
+            "timestamp": "2024-03-06 11:32 AM",
+            "content": "Nikki: Haha, hey Malik! The feet are recovering, thanks to your smooth moves. Great meeting you!"
+          },
+          {
+            "timestamp": "2024-03-06 11:40 AM",
+            "content": "You: Likewise! Would love to grab coffee or dinner sometime, if you're up for it. Promise no dancing required."
+          },
+          {
+            "timestamp": "2024-03-06 12:07 PM",
+            "content": "Nikki: I'd like that! I'm pretty slammed this week, but maybe this weekend or next?"
+          },
+          {
+            "timestamp": "2024-03-06 12:15 PM",
+            "content": "You: Next weekend works great. I'll check in again in a few days and we can make a plan!"
+          }
+        ]
+      },
+      {
+        "date": "2024-04-02",
+        "messages": [
+          {
+            "timestamp": "2024-04-02 06:22 PM",
+            "content": "You: Crazy weather today, huh? Still on for dinner tomorrow night? I was thinking that new Italian place downtown."
+          },
+          {
+            "timestamp": "2024-04-02 07:49 PM",
+            "content": "Nikki: Oh no, I'm so sorry Malik but I'm going to have to reschedule. \ud83d\ude1e Work deadlines got moved up and it's been insane. Rain check?"
+          },
+          {
+            "timestamp": "2024-04-02 07:55 PM",
+            "content": "You: No worries at all, I totally understand. Let's shoot for next week instead?"
+          },
+          {
+            "timestamp": "2024-04-02 08:11 PM",
+            "content": "Nikki: Sounds good, I should have more flexibility then. Thanks for being patient with me! Talk soon"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-09",
+        "messages": [
+          {
+            "timestamp": "2024-05-09 04:33 PM",
+            "content": "Nikki: Malik, I feel terrible for being so MIA the past month. Things got really hectic with work and some family stuff. I'd still love to get together if you're willing to give me another chance."
+          },
+          {
+            "timestamp": "2024-05-09 05:02 PM",
+            "content": "You: It's all good, I'm just glad to hear from you! I know how crazy life can get sometimes. Definitely still down to meet up."
+          },
+          {
+            "timestamp": "2024-05-09 05:19 PM",
+            "content": "Nikki: You're the best. \ud83d\ude0a I'm free tomorrow evening if you want to grab dinner or take a walk along the river?"
+          },
+          {
+            "timestamp": "2024-05-09 05:27 PM",
+            "content": "You: A riverside stroll sounds perfect. Meet at our usual spot around 6? We can play it by ear for dinner after."
+          },
+          {
+            "timestamp": "2024-05-09 05:36 PM",
+            "content": "Nikki: It's a date! Looking forward to catching up. See you then!"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T11:35:33.824640"
+}

@@ -1,0 +1,10 @@
+{
+  "original_id": "train_110",
+  "error": "Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",
+  "timestamp": "2024-11-08T13:13:25.088569",
+  "original_data": {
+    "topic": "criticize",
+    "summary": "#Person1# tells #Person2# not to criticize #Person2#'s son in front of his friends.",
+    "dialogue": "#Person1#: You should not have criticize your son in front of his friends.\n#Person2#: Why? He did something wrong.\n#Person1#: I know. But at that time your blame is rubbing salt into his wounds.\n#Person2#: I only wanted to help him.\n#Person1#: But it is not the right time."
+  }
+}

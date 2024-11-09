@@ -1,0 +1,117 @@
+{
+  "original_id": "train_157",
+  "topic": "treatment",
+  "original_summary": "#Person1#'s not feeling well, so her mother makes her take a hot bath and will make chicken soup to replenish her.",
+  "transformed_conversations": {
+    "today_date": "2024-05-14",
+    "personal_summary": "Here's a summary of your interactions with your mom over the past few months regarding your health issues. It started back in early February when you weren't feeling well and your mom had you take a hot bath to help with the symptoms. She also made you chicken soup, even though you didn't have much of an appetite at the time. \n\nA couple weeks later in mid-February, you were still under the weather. Your mom took you to the doctor, who diagnosed you with mononucleosis and recommended lots of rest. By early March, you were feeling a bit better but still quite fatigued. Your mom checked in regularly to see how you were doing.\n\nThen in late March, you had a relapse of symptoms and felt terrible again. Your mom helped nurse you back to health over the next few weeks. By mid-April, you were finally starting to feel more like yourself. Your mom was relieved to see your health and energy levels returning to normal. \n\nNow today, May 14th, it's been about three months since this all started. Looking back, your mom's care and support were instrumental in helping you get through a difficult bout with mono. Her chicken soup, while maybe not always appetizing, kept your strength up. And her regular check-ins provided much needed emotional support during the long recovery. You're very grateful for everything she did to help you get healthy again.",
+    "conversations": [
+      {
+        "date": "2024-02-03",
+        "messages": [
+          {
+            "timestamp": "2024-02-03 19:32",
+            "content": "Mom: Ouch! The water's too hot!"
+          },
+          {
+            "timestamp": "2024-02-03 19:33",
+            "content": "You: Get in slowly, sweetie. You'll get used to it. I'm gonna go and make you some chicken soup."
+          },
+          {
+            "timestamp": "2024-02-03 19:35",
+            "content": "Mom: I'm not hungry, Mom."
+          },
+          {
+            "timestamp": "2024-02-03 19:36",
+            "content": "You: I know you don't have an appetite, but you need to eat something. You'll get too weak if you don't eat."
+          },
+          {
+            "timestamp": "2024-02-03 19:40",
+            "content": "Mom: Oh. . . I'm sweating already. It's so hot. I can feel it boiling! Can I get out yet?"
+          },
+          {
+            "timestamp": "2024-02-03 19:41",
+            "content": "You: That's a good sign. But just soak a little longer, OK?"
+          }
+        ]
+      },
+      {
+        "date": "2024-02-16",
+        "messages": [
+          {
+            "timestamp": "2024-02-16 14:03",
+            "content": "You: How did your doctor's appointment go? What did she say?"
+          },
+          {
+            "timestamp": "2024-02-16 14:15",
+            "content": "Mom: She thinks I have mono. I need to rest a lot and take it easy for a while. No sports or anything. This sucks."
+          },
+          {
+            "timestamp": "2024-02-16 14:17",
+            "content": "You: I know it's frustrating sweetie, but rest is the best thing for you right now. We'll get through this together. Let me know if you need anything."
+          }
+        ]
+      },
+      {
+        "date": "2024-03-05",
+        "messages": [
+          {
+            "timestamp": "2024-03-05 11:21",
+            "content": "You: How are you feeling today?"
+          },
+          {
+            "timestamp": "2024-03-05 11:40",
+            "content": "Mom: A little better I guess. Still really tired all the time though. When will this end?"
+          },
+          {
+            "timestamp": "2024-03-05 11:42",
+            "content": "You: I know it seems like forever, but you are making progress. Remember to take it one day at a time. Your body needs time to heal. Hang in there!"
+          }
+        ]
+      },
+      {
+        "date": "2024-03-28",
+        "messages": [
+          {
+            "timestamp": "2024-03-28 16:10",
+            "content": "Mom: Ugh, I feel awful again. My throat is so sore and the fatigue is terrible. I thought I was getting better!"
+          },
+          {
+            "timestamp": "2024-03-28 16:12",
+            "content": "You: I'm so sorry honey. Mono can be like that - better for a while then symptoms come back. We'll get you through this relapse. I'll make you some tea with honey for your throat. Do you think you could eat some toast?"
+          },
+          {
+            "timestamp": "2024-03-28 16:15",
+            "content": "Mom: I don't know...maybe I'll try a little later. I just want to sleep now."
+          },
+          {
+            "timestamp": "2024-03-28 16:17",
+            "content": "You: Of course, you rest. I'll check on you in a bit. Love you."
+          }
+        ]
+      },
+      {
+        "date": "2024-04-18",
+        "messages": [
+          {
+            "timestamp": "2024-04-18 12:30",
+            "content": "You: You seem to be getting back to your old self again. I'm so glad you're feeling better!"
+          },
+          {
+            "timestamp": "2024-04-18 12:32",
+            "content": "Mom: Yeah, I actually felt like getting out of bed this morning. And I was even a little hungry. I think I've finally turned the corner."
+          },
+          {
+            "timestamp": "2024-04-18 12:35",
+            "content": "You: That's wonderful news! Remember to still take it slow and rest when you need to. But I'm so happy you're on the mend. How about we watch a movie together later?"
+          },
+          {
+            "timestamp": "2024-04-18 12:37",
+            "content": "Mom: That sounds great mom, thanks. And thanks for taking such good care of me. I couldn't have made it through this without you."
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T13:47:40.018123"
+}

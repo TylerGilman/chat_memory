@@ -1,0 +1,144 @@
+{
+  "original_id": "train_175",
+  "topic": "watch a movie",
+  "original_summary": "#Person1# and #Person2# plan to watch a movie tomorrow. #Person2# wants to watch Hot Fuzz while #Person1# prefers a film with a happy ending. They finally decide on Becoming Jane.",
+  "transformed_conversations": {
+    "today_date": "2024-08-15",
+    "personal_summary": "Here's a summary of your interactions with Jamie over the past couple months regarding movie plans:\n\nBack in early June, you and Jamie first discussed going to see a movie together. You weren't too keen on the action-comedy Hot Fuzz that Jamie suggested, preferring something with a happier ending. You proposed seeing the Hollywood blockbuster You, Me and Dupree instead, but Jamie wasn't interested in that \"chick flick\". \n\nAfter some back and forth, you both agreed on the biographical drama Becoming Jane about Jane Austen, and made plans to meet up and see it a couple days later. The movie ended up being fantastic and sparked some great discussions between you.\n\nA few weeks after that in late June, Jamie reached out again to rave about how much they enjoyed Becoming Jane and spending time together. This led to more conversations about your shared love of period dramas and wanting to hang out more.\n\nIn mid-July, Jamie sadly had to cancel plans last-minute to go see another movie due to a family emergency. You were very understanding and rescheduled for the following weekend. \n\nThat brings us to last week, when you had an amazing time seeing the new film adaptation of Little Women together. You really appreciated Jamie's emotional support during the sad scenes. Afterwards at dinner, you bonded over relatable parts of the story and your hopes and dreams. \n\nOverall, your movie dates and deep talks have really strengthened your friendship with Jamie over the past couple months. Becoming Jane was the perfect choice that first time, sparking lots of meaningful conversations since. Despite the mid-July hiccup, you've grown a lot closer and seem to really \"get\" each other now. Excited to see where this friendship goes from here!",
+    "conversations": [
+      {
+        "date": "2024-06-05",
+        "messages": [
+          {
+            "timestamp": "2024-06-05 14:32",
+            "content": "Jamie: Hey, do you have any plans for tomorrow night? I was thinking of maybe going to see a movie if you want to join."
+          },
+          {
+            "timestamp": "2024-06-05 14:35",
+            "content": "You: Sure, that could be fun! What movies were you considering?"
+          },
+          {
+            "timestamp": "2024-06-05 14:37",
+            "content": "Jamie: Well I heard good things about the action-comedy Hot Fuzz. It's by the same director as Shaun of the Dead. What do you think?"
+          },
+          {
+            "timestamp": "2024-06-05 14:40",
+            "content": "You: To be honest, I didn't really like Shaun of the Dead. I tend to prefer movies with happier endings."
+          },
+          {
+            "timestamp": "2024-06-05 14:41",
+            "content": "Jamie: Ah gotcha. Well what kind of movie do you have in mind then?"
+          },
+          {
+            "timestamp": "2024-06-05 14:43",
+            "content": "You: I was thinking maybe that new Hollywood blockbuster You, Me and Dupree with Kate Hudson and Owen Wilson. Seems cute."
+          },
+          {
+            "timestamp": "2024-06-05 14:45",
+            "content": "Jamie: Isn't that kind of a chick flick though? I'm not really into those..."
+          },
+          {
+            "timestamp": "2024-06-05 14:47",
+            "content": "You: Yeah, I figured you probably wouldn't be keen on that one. Hmm. Do you like biographical dramas at all?"
+          },
+          {
+            "timestamp": "2024-06-05 14:48",
+            "content": "Jamie: It depends, which one are you thinking of?"
+          },
+          {
+            "timestamp": "2024-06-05 14:50",
+            "content": "You: Well Anne Hathaway has that new movie out called Becoming Jane. It's based on the true story of Jane Austen's life. Could be interesting!"
+          },
+          {
+            "timestamp": "2024-06-05 14:52",
+            "content": "Jamie: Oh that does sound intriguing actually! When is it playing?"
+          },
+          {
+            "timestamp": "2024-06-05 14:54",
+            "content": "You: Looks like there's an 8pm showing tomorrow at Phoenix Theatres."
+          },
+          {
+            "timestamp": "2024-06-05 14:55",
+            "content": "Jamie: Perfect. I have a membership there so I can book the tickets in advance. Want to just meet there around 7:45?"
+          },
+          {
+            "timestamp": "2024-06-05 14:57",
+            "content": "You: Sounds great! Looking forward to it. See you tomorrow night!"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-25",
+        "messages": [
+          {
+            "timestamp": "2024-06-25 11:03",
+            "content": "Jamie: Hey, I just wanted to say again how much I enjoyed seeing Becoming Jane with you the other week. Such a great movie and even better company!"
+          },
+          {
+            "timestamp": "2024-06-25 11:10",
+            "content": "You: Aww thanks, I had a really nice time too! Glad we decided on that one. I loved geeking out about it with you afterwards."
+          },
+          {
+            "timestamp": "2024-06-25 11:13",
+            "content": "Jamie: Same here. It's so refreshing to find someone else who appreciates a good period drama. We should definitely hang out again soon!"
+          },
+          {
+            "timestamp": "2024-06-25 11:16",
+            "content": "You: For sure! Let me know if any other films catch your eye. I'm always down for more excuses to spend time together :)"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-12",
+        "messages": [
+          {
+            "timestamp": "2024-07-12 18:22",
+            "content": "Jamie: Hey, I'm really sorry but I have to cancel movie plans tonight. A family emergency just came up and I need to go help my parents. Rain check?"
+          },
+          {
+            "timestamp": "2024-07-12 18:30",
+            "content": "You: Oh no, I'm so sorry to hear that! No worries at all, family comes first. I hope everything is okay. Let me know if you need anything!"
+          },
+          {
+            "timestamp": "2024-07-12 18:33",
+            "content": "Jamie: Thanks so much for understanding. I really appreciate it. Things should be fine, just need to help them sort some stuff out. I'll text you later this week to reschedule?"
+          },
+          {
+            "timestamp": "2024-07-12 18:36",
+            "content": "You: Sounds good, take all the time you need. Sending good vibes to you and your family!"
+          }
+        ]
+      },
+      {
+        "date": "2024-08-08",
+        "messages": [
+          {
+            "timestamp": "2024-08-08 22:47",
+            "content": "You: I had SUCH a good time with you tonight! Little Women was even better than I hoped. Thanks for being my shoulder to cry on during the sad parts, hah."
+          },
+          {
+            "timestamp": "2024-08-08 22:52",
+            "content": "Jamie: Aww of course! What are friends for? I got a bit misty-eyed myself. Such a beautiful story and adaptation."
+          },
+          {
+            "timestamp": "2024-08-08 22:55",
+            "content": "You: Definitely. I really related to Jo's journey of finding her place in the world as a woman and writer. It was so nice talking it over with you at dinner afterwards."
+          },
+          {
+            "timestamp": "2024-08-08 22:58",
+            "content": "Jamie: I could totally see parts of you in her! And I meant what I said, I really do believe in you and your dreams. You've got something special."
+          },
+          {
+            "timestamp": "2024-08-08 23:02",
+            "content": "You: That means more than you know. I feel so lucky to have you in my life. Here's to many more movie dates and deep talks!"
+          },
+          {
+            "timestamp": "2024-08-08 23:05",
+            "content": "Jamie: I feel the exact same way! Already looking forward to the next one. Sleep well, talk soon <3"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T14:04:37.140629"
+}

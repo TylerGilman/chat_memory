@@ -1,0 +1,10 @@
+{
+  "original_id": "train_115",
+  "error": "Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",
+  "timestamp": "2024-11-08T13:13:51.200066",
+  "original_data": {
+    "topic": "dessert",
+    "summary": "#Person2# wants to have apple pie with ice cream and another glass of lemonade. #Person1# will have ice tea and apple pie without ice cream because #Person2# has to watch #Person2#'s weight.",
+    "dialogue": "#Person1#: What would you like for dessert?\n#Person2#: What do you have?\n#Person1#: I have apple pie, ice cream, chocolate cake and fruit cocktail.\n#Person2#: Can I have apple pie with ice cream?\n#Person1#: Of course. I made the apple pie this morning, so it's lovely and fresh.\n#Person2#: I love your home-made apple pie. It's delicious. Can I have another glass of lemonade as well?\n#Person1#: Sure. Can you get it yourself, it's in the refrigerator.\n#Person2#: Ok. Would you like a drink too?\n#Person1#: Yes, I'll have an ice tea. You see it next to the lemonade.\n#Person2#: Are you having any dessert?\n#Person1#: I'll have apple pie too, but without ice cream. I have to watch my weight."
+  }
+}

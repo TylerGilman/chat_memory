@@ -1,0 +1,10 @@
+{
+  "original_id": "train_119",
+  "error": "Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",
+  "timestamp": "2024-11-08T13:14:12.812258",
+  "original_data": {
+    "topic": "flight",
+    "summary": "#Person1# wants to fly to Toronto. #Person2# suggests #Person1# fly on Northwest Airlines to Berlin and then have a connecting flight on Canada Airline to Toronto.",
+    "dialogue": "#Person1#: Do you have any direct flights to Toronto?\n#Person2#: Sorry, we don't. But I think you can fly on Northwest Airlines to Berlin and then have a connecting flight on Canada Airline to Toronto. And it is the most economical flight, just 1, 900 dollars.\n#Person1#: When does the flight depart?\n#Person2#: At 8 am. By the way, it also makes a refueling stop.\n#Person1#: How long is the layover?\n#Person2#: Less than one hour.\n#Person1#: And how long do I have to stay in Berlin for the connecting flight?\n#Person2#: Not so long, just one hour.\n#Person1#: So the time for the total journey is about. . . ?\n#Person2#: About 13 hours.\n#Person1#: Let me count. Ok, it works out for my schedule. Thanks a lot!\n#Person2#: You are welcome!"
+  }
+}

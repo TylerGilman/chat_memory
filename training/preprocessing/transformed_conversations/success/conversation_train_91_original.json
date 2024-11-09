@@ -1,0 +1,144 @@
+{
+  "original_id": "train_91",
+  "topic": "plan a party",
+  "original_summary": "Nancy phones Bob to tell him her sister Amy is coming back from the states next weekend. Bob suggests giving a party for Amy.",
+  "transformed_conversations": {
+    "today_date": "2024-05-18",
+    "personal_summary": "Here's a summary of your interactions with Bob regarding your sister Amy's return from the states and planning a party for her:\n\nTwo months ago on March 15th, you first got in touch with Bob to let him know Amy was coming back the following weekend. He immediately suggested getting together that night to plan a party. A couple days later on the 17th, you met up and started brainstorming ideas. In early April, about a month and a half ago, you finalized the party details together. Then last week, you touched base again to confirm everything was set. The party ended up being a huge success this past weekend! Amy was thrilled by the surprise welcome home celebration you and Bob put together.",
+    "conversations": [
+      {
+        "date": "2024-03-15",
+        "messages": [
+          {
+            "timestamp": "2024-03-15 14:32",
+            "content": "You: Hello, Bob. This is Nancy speaking. I'm so glad I've got hold of you at last."
+          },
+          {
+            "timestamp": "2024-03-15 14:35",
+            "content": "Bob: Were you trying to get in touch with me? If I'm not at home, you can usually reach me at my club here."
+          },
+          {
+            "timestamp": "2024-03-15 14:36",
+            "content": "You: That's good to know. Listen, Bob, I've got news for you."
+          },
+          {
+            "timestamp": "2024-03-15 14:37",
+            "content": "Bob: What is it?"
+          },
+          {
+            "timestamp": "2024-03-15 14:38",
+            "content": "You: My sister Amy is coming back from the states."
+          },
+          {
+            "timestamp": "2024-03-15 14:39",
+            "content": "Bob: That's great. When is she coming back?"
+          },
+          {
+            "timestamp": "2024-03-15 14:40",
+            "content": "You: Next weekend."
+          },
+          {
+            "timestamp": "2024-03-15 14:41",
+            "content": "Bob: Next weekend? OK. Let's get together tonight and plan a party for her."
+          },
+          {
+            "timestamp": "2024-03-15 14:43",
+            "content": "You: All right. Meet at the usual cafe at 7pm?"
+          },
+          {
+            "timestamp": "2024-03-15 14:44",
+            "content": "Bob: Sounds perfect, see you then!"
+          }
+        ]
+      },
+      {
+        "date": "2024-03-17",
+        "messages": [
+          {
+            "timestamp": "2024-03-17 19:05",
+            "content": "You: Hey Bob, thanks for meeting up the other night to start planning Amy's party. I've been thinking more about it."
+          },
+          {
+            "timestamp": "2024-03-17 19:12",
+            "content": "Bob: Me too! I have some ideas. What if we do a \"welcome home\" theme?"
+          },
+          {
+            "timestamp": "2024-03-17 19:15",
+            "content": "You: Love that idea! We could decorate with maps, globes, and photos of her travels."
+          },
+          {
+            "timestamp": "2024-03-17 19:18",
+            "content": "Bob: Exactly! And serve foods from the places she visited."
+          },
+          {
+            "timestamp": "2024-03-17 19:20",
+            "content": "You: Brilliant! I'll make a list of everything we need and send it over."
+          },
+          {
+            "timestamp": "2024-03-17 19:25",
+            "content": "Bob: Great, I'm happy to handle picking up supplies. This party is going to be epic!"
+          }
+        ]
+      },
+      {
+        "date": "2024-04-03",
+        "messages": [
+          {
+            "timestamp": "2024-04-03 11:02",
+            "content": "You: Morning Bob! Just wanted to touch base about Amy's party. I think we've got everything covered at this point."
+          },
+          {
+            "timestamp": "2024-04-03 11:10",
+            "content": "Bob: I agree, we make a great party planning team! I'll swing by on Friday to help you set everything up."
+          },
+          {
+            "timestamp": "2024-04-03 11:14",
+            "content": "You: Appreciate it! Amy is going to be so surprised and happy. It means a lot that you're helping me pull this off."
+          },
+          {
+            "timestamp": "2024-04-03 11:17",
+            "content": "Bob: It's my pleasure, you know I adore Amy. She deserves a warm welcome after being away so long."
+          },
+          {
+            "timestamp": "2024-04-03 11:20",
+            "content": "You: She sure does. OK I better get back to work. Talk to you later this week!"
+          },
+          {
+            "timestamp": "2024-04-03 11:22",
+            "content": "Bob: Sounds good, Nancy. Have a great day!"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-10",
+        "messages": [
+          {
+            "timestamp": "2024-05-10 17:45",
+            "content": "You: Hi Bob, just wanted to confirm we're all set for Amy's welcome home party this Saturday?"
+          },
+          {
+            "timestamp": "2024-05-10 17:52",
+            "content": "Bob: Absolutely! I've got all the supplies ready to go. Need any other help?"
+          },
+          {
+            "timestamp": "2024-05-10 17:55",
+            "content": "You: I think we're good! I'm picking up the cake that morning. If you could come over around 3pm to help decorate, that would be amazing."
+          },
+          {
+            "timestamp": "2024-05-10 17:58",
+            "content": "Bob: Consider it done! I can't wait to see the look on Amy's face."
+          },
+          {
+            "timestamp": "2024-05-10 18:00",
+            "content": "You: Me neither! She's going to be thrilled. Thanks again for everything, Bob."
+          },
+          {
+            "timestamp": "2024-05-10 18:01",
+            "content": "Bob: Anytime! That's what friends are for. See you Saturday!"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T12:54:43.692347"
+}

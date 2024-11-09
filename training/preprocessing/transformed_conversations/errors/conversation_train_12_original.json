@@ -1,0 +1,10 @@
+{
+  "original_id": "train_12",
+  "error": "Unexpected response format",
+  "timestamp": "2024-11-08T11:41:51.259072",
+  "original_data": {
+    "topic": "sexual harrassment",
+    "summary": "#Person2# suggests #Person1# use a spam filter to reject Bean's pornographic stuff.",
+    "dialogue": "#Person1#: Did Bean send these dirty jokes to you, too? Look!\n#Person2#: What a creep! Phony good luck e-mails are one thing, but sexual harassment is crossing the line.\n#Person1#: No wonder he asked for my address first-he just wants to harass me!\n#Person2#: You could try using a spam filter to reject stuff that's obviously pornographic or anything else you don't want."
+  }
+}

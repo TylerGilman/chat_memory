@@ -1,0 +1,96 @@
+{
+  "original_id": "train_46",
+  "topic": "the conference center",
+  "original_summary": "To get to the conference centre early, #Person1# and #Person2# decide to take the underground, and #Person2# proposes to go there together.",
+  "transformed_conversations": {
+    "today_date": "2024-05-18",
+    "personal_summary": "Here's a summary of your interactions with Emily over the past couple months regarding the conference and related events:\n\nBack in early March, about 2 months ago, you and Emily were planning to attend a conference together at Mister Ewing's request. You decided to take the underground to arrive on time and make a good impression. The conference ended up going well, and the following week, Emily suggested meeting up to discuss potential collaboration opportunities that came out of it. In mid-April, you had a productive brainstorming session and decided to put together a joint proposal. After a few weeks of hard work, you submitted the proposal earlier this month. Just yesterday, Emily excitedly messaged you that the proposal was accepted! Looking back, that initial conference set off a chain of events that has led to an exciting new project for you and Emily to tackle together. It's amazing to see how much has progressed in a relatively short time.",
+    "conversations": [
+      {
+        "date": "2024-03-05",
+        "messages": [
+          {
+            "timestamp": "2024-03-05 09:32",
+            "content": "You: Mister Ewing said we should show up at the conference center at 4 o'clock, right?"
+          },
+          {
+            "timestamp": "2024-03-05 09:35",
+            "content": "Emily: Yes, he specially asked us not to be late. Some of the people from our East York branch office are coming and he wants to make a good impression on them. How are you getting there?"
+          },
+          {
+            "timestamp": "2024-03-05 09:37",
+            "content": "You: I was thinking of taking my car but I think I'm just going to take the underground because there is construction on the highway. What about you?"
+          },
+          {
+            "timestamp": "2024-03-05 09:39",
+            "content": "Emily: I'll be taking the underground as well. Why don't we go together? I've been to the conference center only once, and I'm not sure if I can find my way around there."
+          },
+          {
+            "timestamp": "2024-03-05 09:41",
+            "content": "You: Great idea, let's plan to meet at the station at 3:30 then. See you there!"
+          }
+        ]
+      },
+      {
+        "date": "2024-03-13",
+        "messages": [
+          {
+            "timestamp": "2024-03-13 14:03",
+            "content": "Emily: Hey, I thought the conference last week went really well! I made some great connections. Want to meet up this week to discuss any collaboration opportunities?"
+          },
+          {
+            "timestamp": "2024-03-13 14:10",
+            "content": "You: Definitely, I had a few promising conversations as well. How about we grab coffee on Thursday afternoon?"
+          },
+          {
+            "timestamp": "2024-03-13 14:12",
+            "content": "Emily: Perfect, let's meet at Cafe Luca at 2pm. Looking forward to brainstorming ideas!"
+          }
+        ]
+      },
+      {
+        "date": "2024-04-16",
+        "messages": [
+          {
+            "timestamp": "2024-04-16 10:22",
+            "content": "You: I've been thinking more about the project idea we discussed when we met up after the conference. I really think we could put together a strong proposal. What do you think?"
+          },
+          {
+            "timestamp": "2024-04-16 10:27",
+            "content": "Emily: I'm so glad you brought that up, I haven't been able to stop thinking about it either! Let's go for it. How about we divide up the proposal sections and aim to have drafts by next Friday?"
+          },
+          {
+            "timestamp": "2024-04-16 10:30",
+            "content": "You: Sounds great, I'll start putting together an outline and project timeline. Let's touch base mid-week to see how things are progressing."
+          },
+          {
+            "timestamp": "2024-04-16 10:32",
+            "content": "Emily: Excellent, can't wait to get started on this. I have a good feeling about it!"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-17",
+        "messages": [
+          {
+            "timestamp": "2024-05-17 16:45",
+            "content": "Emily: You'll never believe it, our proposal got accepted! They loved our idea! \ud83c\udf89"
+          },
+          {
+            "timestamp": "2024-05-17 16:47",
+            "content": "You: No way, that's incredible news! I had a good feeling about this one. When do we get started?"
+          },
+          {
+            "timestamp": "2024-05-17 16:49",
+            "content": "Emily: They want to kick things off with a call next week. I'll send over the meeting details later today."
+          },
+          {
+            "timestamp": "2024-05-17 16:51",
+            "content": "You: Fantastic, what an exciting opportunity! Looking forward to diving in and bringing this idea to life."
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T12:13:37.051122"
+}

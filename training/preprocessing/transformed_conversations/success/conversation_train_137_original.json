@@ -1,0 +1,108 @@
+{
+  "original_id": "train_137",
+  "topic": "summer",
+  "original_summary": "#Person2# wants to get tans at the beginning of the summer but #Person1# doesn't.",
+  "transformed_conversations": {
+    "today_date": "2024-06-18",
+    "personal_summary": "Here's a summary of your interactions with Jess over the past few months about summer plans and going to the pool. Back in mid-May, you first mentioned that the pool was open for the season. Jess was excited to get a tan in her new bikini, but you explained that as a Taiwanese girl, you prefer to avoid suntans. A week later, you discussed skin cancer risks and SPF in more detail. By Memorial Day weekend, you met up with friends at the pool to kick off summer. Earlier this month, Jess shared that she ended up getting a bit too much sun at the pool and asked for your skincare tips. Most recently last week, you made tentative plans to go shopping together for new sun hats and swimsuit coverups. Overall, your conversations show how your friendship has grown through sharing different perspectives and looking out for each other as you make the most of the summer pool season.",
+    "conversations": [
+      {
+        "date": "2024-05-12",
+        "messages": [
+          {
+            "timestamp": "2024-05-12 14:32",
+            "content": "You: Hey Jess, guess what? The pool's open now!"
+          },
+          {
+            "timestamp": "2024-05-12 14:35",
+            "content": "Jess: Oh nice, as of today? Perfect timing with Memorial Day coming up to mark the end of school and start of summer!"
+          },
+          {
+            "timestamp": "2024-05-12 14:37",
+            "content": "You: Yep, time for the kids to get outdoors..."
+          },
+          {
+            "timestamp": "2024-05-12 14:39",
+            "content": "Jess: ...and for us to get tans in our cute new bikinis \ud83d\ude0e"
+          },
+          {
+            "timestamp": "2024-05-12 14:42",
+            "content": "You: Haha, not this Taiwanese girl \ud83d\ude05 We don't really like to get suntans."
+          },
+          {
+            "timestamp": "2024-05-12 14:45",
+            "content": "Jess: That's actually really smart these days with all the news about skin cancer risks."
+          },
+          {
+            "timestamp": "2024-05-12 14:47",
+            "content": "You: For sure. Well hey - there's the group! Looks like we all made it to opening day!"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-19",
+        "messages": [
+          {
+            "timestamp": "2024-05-19 11:14",
+            "content": "Jess: So I've been thinking more about what you said last week about avoiding too much sun. What SPF level do you usually use?"
+          },
+          {
+            "timestamp": "2024-05-19 11:20",
+            "content": "You: I always go for SPF 50! Even with my melanin I don't take chances. I also wear hats, sunglasses and cover up when I can."
+          },
+          {
+            "timestamp": "2024-05-19 11:25",
+            "content": "Jess: Wow okay, I clearly need to up my game. Thanks for the tips! I may need to go shopping before Memorial Day weekend at the pool."
+          },
+          {
+            "timestamp": "2024-05-19 11:28",
+            "content": "You: Happy to share what works for me. Have fun shopping and let's definitely catch up at the pool next weekend!"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-29",
+        "messages": [
+          {
+            "timestamp": "2024-05-29 13:01",
+            "content": "Jess: Well, I may have gotten a bit crispy at the pool yesterday despite my SPF 30 \ud83d\ude33 Definitely feeling it today."
+          },
+          {
+            "timestamp": "2024-05-29 13:06",
+            "content": "You: Oh no! Sounds painful. Aloe vera gel helps a lot. I have an extra bottle if you need some."
+          },
+          {
+            "timestamp": "2024-05-29 13:09",
+            "content": "Jess: You're the best, thanks. I'll swing by later to grab that. Lesson learned!"
+          },
+          {
+            "timestamp": "2024-05-29 13:11",
+            "content": "You: No worries, we've all been there. Just keep an eye on it and take it easy in the sun for a bit. Lots of water too!"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-09",
+        "messages": [
+          {
+            "timestamp": "2024-06-09 16:42",
+            "content": "Jess: Hey girl, I'm headed to the mall to find a new sun hat and some cute swimsuit coverups. Want to come with? I could use your eye for sun protection style!"
+          },
+          {
+            "timestamp": "2024-06-09 16:50",
+            "content": "You: Aw I'd love to but I can't today. Let's definitely plan a shopping trip soon though! I saw some adorable options at our fave boutique \ud83d\ude0d"
+          },
+          {
+            "timestamp": "2024-06-09 16:55",
+            "content": "Jess: Sounds perfect, let's aim for next weekend maybe? I'll scope things out today and report back!"
+          },
+          {
+            "timestamp": "2024-06-09 17:01",
+            "content": "You: Love it, can't wait to see what you find! Have fun and talk soon!"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T13:29:51.023662"
+}

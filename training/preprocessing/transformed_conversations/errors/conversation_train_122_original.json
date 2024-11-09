@@ -1,0 +1,10 @@
+{
+  "original_id": "train_122",
+  "error": "Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",
+  "timestamp": "2024-11-08T13:15:01.242875",
+  "original_data": {
+    "topic": "order food",
+    "summary": "#Person1# orders sole but is served with the same as the others. #Person2# has no more sole, so #Person1# changes to the pork cutlet.",
+    "dialogue": "#Person1#: I will have sole then.\n#Person2#: All right, how about the other guests.\n#Person1#: The rest of us will have this today's special, please.\n#Person2#: Ok.\n#Person1#: I am sorry but I ordered sole not the same as the others. Will you change it?\n#Person2#: I'm afraid we have no more sole.\n#Person1#: Then I'll have the pork cutlet instead.\n#Person2#: Certainly, just a moment, sir."
+  }
+}

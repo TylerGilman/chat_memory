@@ -1,0 +1,157 @@
+{
+  "original_id": "train_198",
+  "topic": "go shopping",
+  "original_summary": "#Person1# will go to the mall alone since #Person2# dislikes window shopping.",
+  "transformed_conversations": {
+    "today_date": "2024-07-18",
+    "personal_summary": "Here's a summary of your interactions with Alex over the past few months regarding shopping and your friendship. It all started back in early February when you invited Alex to join you for the big sale at Broadway Mall. He declined, saying he was broke and found window shopping boring. You ended up going alone. \n\nA week later in mid-February, you checked in to see how Alex was doing financially. He opened up about being stressed about money and his job situation. You offered support and suggested some low-cost activities you could do together. \n\nIn March, Alex excitedly messaged you saying he found a new job. You congratulated him and made plans to celebrate with dinner, your treat. Things were looking up.\n\nHowever, in April Alex seemed distant. After a few weeks, you reached out and discovered he was overwhelmed adjusting to his new job. You had a long phone call, listened to his concerns, and reassured him. \n\nAs summer arrived in June, you invited Alex to join you and some other friends on a weekend beach trip. He was hesitant at first, worried about the cost, but you worked out an affordable plan. The trip went great and Alex seemed more relaxed than he had in months.\n\nNow, in mid-July, your friendship with Alex has grown a lot since that initial conversation about the mall sale. You've supported each other through ups and downs, and found ways to have fun together even when money is tight. You appreciate how your friendship has deepened over the past 5 months.",
+    "conversations": [
+      {
+        "date": "2024-02-03",
+        "messages": [
+          {
+            "timestamp": "2024-02-03 14:32",
+            "content": "You: Broadway Mall is having a big sale this weekend. You wanna go?"
+          },
+          {
+            "timestamp": "2024-02-03 14:45",
+            "content": "Alex: Don't feel like it. I'm broke."
+          },
+          {
+            "timestamp": "2024-02-03 14:47",
+            "content": "You: Well, we can still do some window shopping, can't we?"
+          },
+          {
+            "timestamp": "2024-02-03 14:51",
+            "content": "Alex: Just look around? Ah, that's boring."
+          },
+          {
+            "timestamp": "2024-02-03 14:53",
+            "content": "You: I'll go myself then."
+          }
+        ]
+      },
+      {
+        "date": "2024-02-10",
+        "messages": [
+          {
+            "timestamp": "2024-02-10 11:14",
+            "content": "You: Hey Alex, how's it going? Doing any better money-wise?"
+          },
+          {
+            "timestamp": "2024-02-10 11:20",
+            "content": "Alex: Eh, still stressed. My job barely covers the bills."
+          },
+          {
+            "timestamp": "2024-02-10 11:25",
+            "content": "You: I'm sorry man. Let me know if you need anything."
+          },
+          {
+            "timestamp": "2024-02-10 11:28",
+            "content": "Alex: Thanks. I'm looking for a new job but no luck yet."
+          },
+          {
+            "timestamp": "2024-02-10 11:32",
+            "content": "You: Something will come through. In the meantime, want to hang out this weekend? We could go on a hike, my treat for gas and snacks."
+          },
+          {
+            "timestamp": "2024-02-10 11:38",
+            "content": "Alex: That would be great actually. I could use a break from job hunting. Thanks."
+          }
+        ]
+      },
+      {
+        "date": "2024-03-15",
+        "messages": [
+          {
+            "timestamp": "2024-03-15 17:03",
+            "content": "Alex: Dude, great news - I got a new job!! Better pay and benefits!"
+          },
+          {
+            "timestamp": "2024-03-15 17:05",
+            "content": "You: Congrats!! That's amazing! I'm so happy for you."
+          },
+          {
+            "timestamp": "2024-03-15 17:09",
+            "content": "Alex: Thanks! I start next week. I'm excited but a little nervous too."
+          },
+          {
+            "timestamp": "2024-03-15 17:11",
+            "content": "You: You're going to do great. We should celebrate - dinner on me this weekend?"
+          },
+          {
+            "timestamp": "2024-03-15 17:15",
+            "content": "Alex: Definitely! It'll be good to hang out."
+          }
+        ]
+      },
+      {
+        "date": "2024-04-23",
+        "messages": [
+          {
+            "timestamp": "2024-04-23 13:41",
+            "content": "You: Hey Alex, haven't heard from you in a few weeks. How's the new job going?"
+          },
+          {
+            "timestamp": "2024-04-23 15:28",
+            "content": "Alex: It's okay. Just been super busy and kind of overwhelmed. A lot to learn."
+          },
+          {
+            "timestamp": "2024-04-23 15:32",
+            "content": "You: Gotcha. Well I'm here if you need to talk. Want to grab a quick coffee or something this week?"
+          },
+          {
+            "timestamp": "2024-04-23 15:40",
+            "content": "Alex: I don't know, I'm pretty swamped. Maybe next week?"
+          },
+          {
+            "timestamp": "2024-04-23 18:55",
+            "content": "You: <missed call>"
+          },
+          {
+            "timestamp": "2024-04-23 19:02",
+            "content": "You: Alex, you seemed stressed in your messages. I just tried calling to check in. Call me back when you can?"
+          },
+          {
+            "timestamp": "2024-04-23 20:14",
+            "content": "Alex: <incoming call>"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-10",
+        "messages": [
+          {
+            "timestamp": "2024-06-10 09:22",
+            "content": "You: Hey, some friends and I are planning a beach trip next weekend. Would you want to come? Should be a fun group."
+          },
+          {
+            "timestamp": "2024-06-10 09:47",
+            "content": "Alex: I don't know, money is still kind of tight..."
+          },
+          {
+            "timestamp": "2024-06-10 09:52",
+            "content": "You: I can cover your share of the Airbnb. And we can carpool and split food costs. Should be a pretty cheap weekend overall."
+          },
+          {
+            "timestamp": "2024-06-10 10:01",
+            "content": "Alex: You sure? I don't want to impose..."
+          },
+          {
+            "timestamp": "2024-06-10 10:04",
+            "content": "You: Not at all! I'd love for you to come. We've all been working hard, we deserve a break."
+          },
+          {
+            "timestamp": "2024-06-10 10:07",
+            "content": "Alex: Okay, I'm in. Thanks man, I appreciate it."
+          },
+          {
+            "timestamp": "2024-06-10 10:09",
+            "content": "You: Great! I'll send you the details. It'll be an awesome weekend."
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T14:25:54.797903"
+}

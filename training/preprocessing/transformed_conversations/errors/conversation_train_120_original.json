@@ -1,0 +1,10 @@
+{
+  "original_id": "train_120",
+  "error": "Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",
+  "timestamp": "2024-11-08T13:14:49.739894",
+  "original_data": {
+    "topic": "find the case",
+    "summary": "#Person1# lost #Person1#'s tags and receipt. #Person2# checks and helps #Person1# find #Person1#'s case.",
+    "dialogue": "#Person1#: I'm sorry, I've lost my tags and receipt. What can I do about it?\n#Person2#: I see. What is your baggage? And do you remember the tag's number or color?\n#Person1#: It's a suitcase. Its colour is blue.\n#Person2#: Could you give me a description of your case?\n#Person1#: It's like this, it's square with a leather cover.\n#Person2#: I'll check it for you. I've found it. Is this yours?\n#Person1#: Yes, it is the right one\n#Person2#: Will you show me your key card, please?\n#Person1#: Here it is.\n#Person2#: All right. Now you can take your case away"
+  }
+}

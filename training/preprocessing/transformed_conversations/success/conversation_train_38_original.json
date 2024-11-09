@@ -1,0 +1,101 @@
+{
+  "original_id": "train_38",
+  "topic": "have a girlfriend",
+  "original_summary": "#Person1# is angry because #Person2# didn't tell #Person1# that #Person2# had a girlfriend and would marry her.",
+  "transformed_conversations": {
+    "today_date": "2024-05-14",
+    "personal_summary": "Here's a summary of your interactions with John over the past few months regarding his girlfriend and upcoming marriage:\n\nBack in early March, you had a heated face-to-face conversation with John where you confronted him about not telling you he had a girlfriend he was in love with and planning to marry. You felt betrayed that he kept this from you. The next day, you followed up over text to reiterate your frustration. John apologized and said he should have told you sooner. \n\nA few weeks later in late March, you met up for coffee and John opened up more, explaining how he had been nervous to tell you since things had moved quickly with his girlfriend Sarah. You appreciated his honesty and felt your friendship was back on track. Then in mid-April, John excitedly texted you that he and Sarah had gotten engaged. While still processing the news, you congratulated him.\n\nJust last week, you had a long phone call with John diving deeper into the details of his engagement and upcoming wedding. He asked you to be a groomsman which touched you deeply. The journey from feeling betrayed to now supporting your best friend's marriage has been quite a rollercoaster these past two months. But you're happy John is following his heart and including you in this next chapter.",
+    "conversations": [
+      {
+        "date": "2024-03-02",
+        "messages": [
+          {
+            "timestamp": "2024-03-02 14:32",
+            "content": "You: Hey, can we talk? I'm really upset you didn't tell me about your girlfriend."
+          },
+          {
+            "timestamp": "2024-03-02 14:45",
+            "content": "John: I'm sorry man, you're right. I should have told you sooner. Can we meet up?"
+          },
+          {
+            "timestamp": "2024-03-02 14:47",
+            "content": "You: Yeah, let's grab coffee tomorrow and talk it out."
+          }
+        ]
+      },
+      {
+        "date": "2024-03-03",
+        "messages": [
+          {
+            "timestamp": "2024-03-03 10:02",
+            "content": "You: Headed to the cafe now. See you in 10"
+          },
+          {
+            "timestamp": "2024-03-03 10:03",
+            "content": "John: Sounds good, omw"
+          }
+        ]
+      },
+      {
+        "date": "2024-03-22",
+        "messages": [
+          {
+            "timestamp": "2024-03-22 13:21",
+            "content": "John: Hey, thanks for meeting up the other week and hearing me out about Sarah. I know I should have told you about her sooner. I really value our friendship and felt bad about not being upfront."
+          },
+          {
+            "timestamp": "2024-03-22 13:25",
+            "content": "You: I appreciate you acknowledging that. I'm glad you opened up more and that we could clear the air. Our friendship means a lot to me too."
+          },
+          {
+            "timestamp": "2024-03-22 13:26",
+            "content": "John: Same here. Want to grab lunch next week? My treat"
+          },
+          {
+            "timestamp": "2024-03-22 13:28",
+            "content": "You: Definitely, let's plan on it"
+          }
+        ]
+      },
+      {
+        "date": "2024-04-16",
+        "messages": [
+          {
+            "timestamp": "2024-04-16 19:03",
+            "content": "John: Dude, big news - Sarah and I got engaged this weekend!!"
+          },
+          {
+            "timestamp": "2024-04-16 19:15",
+            "content": "You: Wow, congrats man! That's huge. You must be thrilled"
+          },
+          {
+            "timestamp": "2024-04-16 19:17",
+            "content": "John: Over the moon! I can't wait for you to be part of the wedding. I'll call you soon with more details!"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-07",
+        "messages": [
+          {
+            "timestamp": "2024-05-07 18:03",
+            "content": "John: Hey, got a minute to chat? Wanted to fill you in on the engagement and wedding plans"
+          },
+          {
+            "timestamp": "2024-05-07 18:05",
+            "content": "You: For sure, give me a call whenever"
+          },
+          {
+            "timestamp": "2024-05-07 21:32",
+            "content": "You: Great catching up earlier. I'm really happy for you and Sarah. And I'm honored you want me to be a groomsman. I'm here for you, always."
+          },
+          {
+            "timestamp": "2024-05-07 21:35",
+            "content": "John: Thanks bro, that means the world. We've come a long way since our blowout fight 2 months ago. I'm glad I have you by my side for this next chapter."
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T12:06:52.065907"
+}

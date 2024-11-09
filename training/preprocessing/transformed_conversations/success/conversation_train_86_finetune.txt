@@ -1,0 +1,25 @@
+[START DATE]
+2024-02-05
+[END DATE]
+2024-05-10
+[CHAT MESSAGES]
+2024-02-05 14:32 | You: For tomorrow, read pages 12 to 20. Then do exercises one through ten on page 21.
+2024-02-05 14:33 | Student: Do we have to type out our homework?
+2024-02-05 14:35 | You: No. You only do that when you write reports.
+2024-02-05 14:36 | Student: Is there anything else?
+2024-02-05 14:37 | You: For those of you who don't have a calculator, get one.
+2024-02-05 14:38 | Student: We are allowed to use a calculator in class?
+2024-02-05 14:40 | You: Yes. By the way, review today's notes this evening. We may have a small quiz tomorrow.
+2024-03-15 10:02 | Student: Is the homework due before or after spring break?
+2024-03-15 10:15 | You: Let's make it due the Tuesday after break. Enjoy your time off!
+2024-03-15 10:17 | Student: Great, thanks! I'll get it done.
+2024-04-10 15:45 | Student: I'm stuck on exercise 7 from the homework. Can you help explain it?
+2024-04-10 15:47 | You: Absolutely. Come see me after class and we'll walk through it together.
+2024-04-10 15:49 | Student: Ok, I'll bring my work. Thanks!
+2024-05-10 13:01 | Student: Are we allowed to use calculators on the chapter 5 test?
+2024-05-10 13:06 | You: Yes, calculators are permitted for the test problems. Be sure to show your work too.
+2024-05-10 13:08 | Student: Got it. I'll remember to write out the steps. See you in class!
+[SUMMARY]
+Here's a summary of your interactions with your student over the past few months regarding homework, calculators and quizzes. Back in early February, you gave the initial homework assignment of reading pages 12-20 and doing exercises 1-10. You clarified students didn't need to type it. You also mentioned they should get calculators and might have a quiz on the day's notes. 
+
+In mid-March, the student followed up asking if the homework was due before or after spring break. You said after break was fine. In April, they had trouble with one of the homework exercises and you walked through it together after class. Most recently last week, the student asked if calculators would be allowed on the upcoming test and you confirmed yes. Overall, the student has been diligent about assignments and you've helped clarify expectations and material when needed.

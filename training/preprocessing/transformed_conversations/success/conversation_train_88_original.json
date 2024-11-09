@@ -1,0 +1,108 @@
+{
+  "original_id": "train_88",
+  "topic": "father",
+  "original_summary": "#Person2# is unhappy because #Person2# got #Person2#'s father's goat.",
+  "transformed_conversations": {
+    "today_date": "2024-07-18",
+    "personal_summary": "Here's a summary of your interactions with your friend regarding their issues with their father over the past few months. It started back in early April when they first mentioned getting their father's goat after an argument about unequal treatment compared to their sisters. You offered a sympathetic ear as they vented their frustrations. A couple weeks later in mid-April, they shared more details about the ongoing tension and how their father wasn't receptive to discussing the issues calmly. By early May, the situation had escalated with another heated argument that left them feeling even more upset and unheard. However, just last month in mid-June, they seemed to be in better spirits and mentioned that they had a heartfelt conversation with their father who finally acknowledged his unfair treatment. While things aren't perfect, it seems to be a step in the right direction. Throughout this period, you've been a supportive friend, offering words of encouragement and advice when needed.",
+    "conversations": [
+      {
+        "date": "2024-04-03",
+        "messages": [
+          {
+            "timestamp": "2024-04-03 19:34",
+            "content": "You: It seems that something is weighing heavy on you. What's the matter?"
+          },
+          {
+            "timestamp": "2024-04-03 19:36",
+            "content": "Friend: I got my father's goat last night."
+          },
+          {
+            "timestamp": "2024-04-03 19:37",
+            "content": "You: What did you do to get his goat?"
+          },
+          {
+            "timestamp": "2024-04-03 19:39",
+            "content": "Friend: When I asked him to treat me like he does my sisters, he jumped down my throat. So I took it out on him by telling him what I thought."
+          },
+          {
+            "timestamp": "2024-04-03 19:41",
+            "content": "You: I'm sorry, that sounds really frustrating. It's unfair for him to treat you differently. I'm here if you need to vent more."
+          }
+        ]
+      },
+      {
+        "date": "2024-04-17",
+        "messages": [
+          {
+            "timestamp": "2024-04-17 12:02",
+            "content": "Friend: Ugh, I tried to bring up the unequal treatment issue with my dad again and he just shut me down."
+          },
+          {
+            "timestamp": "2024-04-17 12:05",
+            "content": "You: Oh no, I'm sorry to hear that. What happened?"
+          },
+          {
+            "timestamp": "2024-04-17 12:08",
+            "content": "Friend: I calmly explained how his favoritism makes me feel, but he got defensive and refused to listen. I don't know what to do."
+          },
+          {
+            "timestamp": "2024-04-17 12:10",
+            "content": "You: That's tough. Maybe try writing him a letter to express yourself without interruption? I'm here for you."
+          }
+        ]
+      },
+      {
+        "date": "2024-05-09",
+        "messages": [
+          {
+            "timestamp": "2024-05-09 16:45",
+            "content": "Friend: Another day, another argument with my father. I'm so over this."
+          },
+          {
+            "timestamp": "2024-05-09 16:47",
+            "content": "You: Oh no, I'm sorry. Was it about the unequal treatment again?"
+          },
+          {
+            "timestamp": "2024-05-09 16:50",
+            "content": "Friend: Yep. I brought up a specific example of how he praises my sister but criticizes me for the same thing. He blew up at me and said I was being dramatic."
+          },
+          {
+            "timestamp": "2024-05-09 16:52",
+            "content": "You: Wow, that's not okay. Your feelings are valid. Is there another family member who could mediate?"
+          },
+          {
+            "timestamp": "2024-05-09 16:55",
+            "content": "Friend: Maybe. I'll think about it. Thanks for listening, as always."
+          }
+        ]
+      },
+      {
+        "date": "2024-06-14",
+        "messages": [
+          {
+            "timestamp": "2024-06-14 10:19",
+            "content": "Friend: I finally had a real conversation with my dad about everything."
+          },
+          {
+            "timestamp": "2024-06-14 10:20",
+            "content": "You: Really? How did it go?"
+          },
+          {
+            "timestamp": "2024-06-14 10:23",
+            "content": "Friend: Surprisingly well, actually. I think he's starting to understand how his actions affect me. He apologized and said he wants to do better."
+          },
+          {
+            "timestamp": "2024-06-14 10:25",
+            "content": "You: That's amazing! I'm so proud of you for being persistent and advocating for yourself. This is a great step forward."
+          },
+          {
+            "timestamp": "2024-06-14 10:27",
+            "content": "Friend: Thanks, I couldn't have done it without your support. I know there's still work to do, but I'm feeling hopeful."
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T12:52:38.465340"
+}

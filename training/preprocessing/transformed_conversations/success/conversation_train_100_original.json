@@ -1,0 +1,133 @@
+{
+  "original_id": "train_100",
+  "topic": "cable",
+  "original_summary": "#Person1# has a problem with the cable. #Person2# promises it should work again and #Person1# doesn't have to pay while it's down.",
+  "transformed_conversations": {
+    "today_date": "2024-08-15",
+    "personal_summary": "Here's a summary of your interactions with the cable company representative regarding your ongoing cable issues. It all started back on April 3rd when you first reached out about your cable being out. The rep apologized and said it should be fixed in a couple days, and that you wouldn't be charged while it was down. \n\nHowever, two weeks later on April 17th, you followed up since the issue still wasn't resolved. The rep again apologized profusely and escalated the issue, promising an update within 48 hours. True to their word, on April 19th they got back to you saying a technician would be out the following Tuesday, April 23rd, to diagnose and fix the problem.\n\nThe technician visit on the 23rd unfortunately didn't fully resolve things. While your cable was restored, you noticed intermittent outages and poor picture quality over the next month. Fed up, you reached back out to the rep on May 28th expressing your frustration. They offered a substantial credit to your account for the 2 months of spotty service and scheduled another technician visit for May 31st.\n\nThat brings us to today, August 15th. It's been over two months since that last technician came out on May 31st and comprehensively resolved your cable issues. The rep followed up in mid-June to confirm things were still working well. You've been enjoying uninterrupted, quality cable service for about 10 weeks now. Quite the ordeal but I'm glad they made things right in the end and that you've been problem-free for nearly 3 months! Let me know if any other cable issues crop up and I'll be happy to jump in and help resolve them quickly.",
+    "conversations": [
+      {
+        "date": "2024-04-03",
+        "messages": [
+          {
+            "timestamp": "2024-04-03 14:32",
+            "content": "You: I have a problem with my cable."
+          },
+          {
+            "timestamp": "2024-04-03 14:33",
+            "content": "Cable Rep: What about it?"
+          },
+          {
+            "timestamp": "2024-04-03 14:35",
+            "content": "You: My cable has been out for the past week or so."
+          },
+          {
+            "timestamp": "2024-04-03 14:37",
+            "content": "Cable Rep: The cable is down right now. I am very sorry."
+          },
+          {
+            "timestamp": "2024-04-03 14:39",
+            "content": "You: When will it be working again?"
+          },
+          {
+            "timestamp": "2024-04-03 14:41",
+            "content": "Cable Rep: It should be back on in the next couple of days."
+          },
+          {
+            "timestamp": "2024-04-03 14:43",
+            "content": "You: Do I still have to pay for the cable?"
+          },
+          {
+            "timestamp": "2024-04-03 14:45",
+            "content": "Cable Rep: We're going to give you a credit while the cable is down."
+          },
+          {
+            "timestamp": "2024-04-03 14:46",
+            "content": "You: So, I don't have to pay for it?"
+          },
+          {
+            "timestamp": "2024-04-03 14:48",
+            "content": "Cable Rep: No, not until your cable comes back on."
+          },
+          {
+            "timestamp": "2024-04-03 14:50",
+            "content": "You: Okay, thanks for everything."
+          },
+          {
+            "timestamp": "2024-04-03 14:51",
+            "content": "Cable Rep: You're welcome, and I apologize for the inconvenience."
+          }
+        ]
+      },
+      {
+        "date": "2024-04-17",
+        "messages": [
+          {
+            "timestamp": "2024-04-17 09:22",
+            "content": "You: Hi, I reached out two weeks ago about my cable being out and was told it would be fixed in a couple days. It's still not working. Can you help?"
+          },
+          {
+            "timestamp": "2024-04-17 09:35",
+            "content": "Cable Rep: I'm so sorry to hear that! That's completely unacceptable. Let me escalate this issue right away and I'll be back in touch within 48 hours with an update. We'll get this fixed ASAP."
+          }
+        ]
+      },
+      {
+        "date": "2024-04-19",
+        "messages": [
+          {
+            "timestamp": "2024-04-19 16:05",
+            "content": "Cable Rep: Good news, a technician is scheduled to come out and diagnose/fix the cable issue this coming Tuesday, April 23rd between 1-4pm. Please let me know if that time window doesn't work for you and we'll find an alternative. Again, I'm so sorry for the extended outage and appreciate your patience as we resolve this."
+          },
+          {
+            "timestamp": "2024-04-19 16:10",
+            "content": "You: I'll make sure to be home during that window on Tuesday, thanks. I really hope this fixes it as it's been a frustrating few weeks without cable. Will I be receiving a credit for the past 2+ weeks of no service?"
+          },
+          {
+            "timestamp": "2024-04-19 16:18",
+            "content": "Cable Rep: Absolutely, I've applied a credit to your account for the full period of the outage, so you won't be charged a dime for the time you were without service. Please let me know if you have any other questions or concerns!"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-28",
+        "messages": [
+          {
+            "timestamp": "2024-05-28 11:41",
+            "content": "You: I'm reaching my wit's end here. The technician came out over a month ago and while the cable is mostly working now, I'm getting intermittent outages and the picture frequently gets pixelated/distorted. This has been going on for weeks since the last technician visit. Can we get this looked at again and actually fixed properly this time?"
+          },
+          {
+            "timestamp": "2024-05-28 11:53",
+            "content": "Cable Rep: Oh no, I'm sorry to hear you're still having issues, that's so frustrating. I've scheduled another technician visit for this Friday, May 31st, with a note to comprehensively test and resolve any lingering issues. I've also credited your account for the past 2 months of subpar service. Please let me know if the issue persists after Friday's visit."
+          },
+          {
+            "timestamp": "2024-05-28 11:57",
+            "content": "You: Okay, thanks. I appreciate the credit and hopefully this next technician can get to the bottom of it. I'll follow up after Friday if I'm still seeing problems."
+          },
+          {
+            "timestamp": "2024-05-28 12:01",
+            "content": "Cable Rep: Sounds good, and again I apologize for the prolonged trouble here. We'll make this right. Feel free to reach out anytime if you have other questions or concerns!"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-16",
+        "messages": [
+          {
+            "timestamp": "2024-06-16 13:28",
+            "content": "Cable Rep: Hi there, just wanted to follow up and see how your cable service has been since the technician came out on May 31st. Have things been working smoothly? Please let me know if you've had any issues crop up!"
+          },
+          {
+            "timestamp": "2024-06-16 13:34",
+            "content": "You: Hi! Yes, the technician seemed to fix all the lingering problems and I'm happy to report the cable has been working great since then. No outages or picture quality issues in the past 2 weeks. Fingers crossed it stays that way! Thanks for checking in."
+          },
+          {
+            "timestamp": "2024-06-16 13:37",
+            "content": "Cable Rep: That's fantastic, I'm so glad to hear it! Thanks for your patience through that whole process. Please don't hesitate to reach out if you need anything else down the line, we're always happy to help. Have a great weekend!"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T13:04:19.963538"
+}

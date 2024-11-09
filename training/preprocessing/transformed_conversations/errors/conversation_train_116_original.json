@@ -1,0 +1,10 @@
+{
+  "original_id": "train_116",
+  "error": "Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",
+  "timestamp": "2024-11-08T13:13:56.217726",
+  "original_data": {
+    "topic": "cash the check",
+    "summary": "#Person1# helps #Person2# cash the check to buy traveler's checks.",
+    "dialogue": "#Person1#: May I help you?\n#Person2#: I'd like to cash this check, please.\n#Person1#: Do you have an account with us?\n#Person2#: Yeah. Here's my identification card.\n#Person1#: Do you want large or small bills?\n#Person2#: Actually, I want to buy some traveler's checks.\n#Person1#: What denomination?\n#Person2#: Twenties would be fine.\n#Person1#: Do you want the whole amount in traveler's check?\n#Person2#: Yes, please."
+  }
+}

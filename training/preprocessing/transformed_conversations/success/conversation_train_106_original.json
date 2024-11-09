@@ -1,0 +1,137 @@
+{
+  "original_id": "train_106",
+  "topic": "play golf",
+  "original_summary": "Mary's golf ball landed in the sand trap and she hates that. #Person2# will wait for her to get on the green.",
+  "transformed_conversations": {
+    "today_date": "2024-08-17",
+    "personal_summary": "Here's a summary of your interactions with John regarding your golf games over the past couple months, Mary. It started back on June 3rd when you were frustrated about landing in the sand trap and John offered to wait for you to get on the green before putting. Then a couple weeks later on June 19th, you made plans to golf again the following weekend. That next round went much better - on June 25th you proudly reported scoring a birdie on the 9th hole! John was impressed. \n\nEarlier this month on August 5th, you had a more detailed discussion about golf strategy. John shared some tips he learned from a pro for hitting out of sand traps more easily. You found his advice really helpful during your next game last weekend on August 12th. You were able to get out of a tricky bunker on the back nine and went on to win the round! It's been great to see your golf game progressing this summer with John's support and comradery on the course.",
+    "conversations": [
+      {
+        "date": "2024-06-03",
+        "messages": [
+          {
+            "timestamp": "2024-06-03 14:32",
+            "content": "You: I hate landing in the sand trap! Now I'm probably going to waste strokes getting it out."
+          },
+          {
+            "timestamp": "2024-06-03 14:33",
+            "content": "John: At least you haven't landed in the water yet. I've done that on the last two holes."
+          },
+          {
+            "timestamp": "2024-06-03 14:35",
+            "content": "You: Could you hand me my wedge? I'll try. . ."
+          },
+          {
+            "timestamp": "2024-06-03 14:36",
+            "content": "John: Here you go. I'll wait for you to get on the green before I putt."
+          },
+          {
+            "timestamp": "2024-06-03 14:37",
+            "content": "You: No. you go ahead and putt it out. Then I'll go."
+          },
+          {
+            "timestamp": "2024-06-03 14:38",
+            "content": "John: No way, Mary. I'm going to let you go first. I don't want the pressure of putting first."
+          }
+        ]
+      },
+      {
+        "date": "2024-06-19",
+        "messages": [
+          {
+            "timestamp": "2024-06-19 10:14",
+            "content": "You: Hey John, want to hit the links again this weekend?"
+          },
+          {
+            "timestamp": "2024-06-19 10:20",
+            "content": "John: For sure! I'm free Saturday morning if you want to get an early tee time."
+          },
+          {
+            "timestamp": "2024-06-19 10:23",
+            "content": "You: Sounds perfect. Let's aim for 8am at Lakeview. I'll book it."
+          },
+          {
+            "timestamp": "2024-06-19 10:26",
+            "content": "John: Great, see you there! Hoping to redeem myself this time."
+          }
+        ]
+      },
+      {
+        "date": "2024-06-25",
+        "messages": [
+          {
+            "timestamp": "2024-06-25 13:03",
+            "content": "You: John, I had my best hole ever on the 9th today - sank a 30ft putt for birdie!"
+          },
+          {
+            "timestamp": "2024-06-25 13:10",
+            "content": "John: No way, that's amazing Mary! You've really improved your short game."
+          },
+          {
+            "timestamp": "2024-06-25 13:14",
+            "content": "You: I guess those putting drills are paying off. Thanks for pushing me to practice more!"
+          },
+          {
+            "timestamp": "2024-06-25 13:18",
+            "content": "John: You're a natural. Awesome playing with you as always. Same time next week?"
+          }
+        ]
+      },
+      {
+        "date": "2024-08-05",
+        "messages": [
+          {
+            "timestamp": "2024-08-05 19:41",
+            "content": "John: Hey Mary, I was watching some videos from a pro about escaping sand traps more easily. Let me know if you want me to share his tips."
+          },
+          {
+            "timestamp": "2024-08-05 19:58",
+            "content": "You: Yes please do! I'm still struggling with bunker shots as you know. What's the secret?"
+          },
+          {
+            "timestamp": "2024-08-05 20:05",
+            "content": "John: Basically open your stance, dig your feet in, and aim a bit right of the pin. Then focus on hitting the sand 1-2\" behind the ball. It's all about exploding the sand to get the ball out."
+          },
+          {
+            "timestamp": "2024-08-05 20:13",
+            "content": "You: Got it, that makes sense. Can't wait to try that next time I'm in the beach. Thanks John!"
+          },
+          {
+            "timestamp": "2024-08-05 20:17",
+            "content": "John: Happy to help. Also, keep your arms and hands relaxed but accelerate through. It takes practice but you'll get the feel for it."
+          }
+        ]
+      },
+      {
+        "date": "2024-08-12",
+        "messages": [
+          {
+            "timestamp": "2024-08-12 16:22",
+            "content": "You: John, your bunker tips were clutch today! I landed in a deep one on 14 but got out in one stroke."
+          },
+          {
+            "timestamp": "2024-08-12 16:29",
+            "content": "John: That's so awesome to hear Mary! I had a feeling that advice would click for you."
+          },
+          {
+            "timestamp": "2024-08-12 16:34",
+            "content": "You: Totally. It still took a lot of finesse but I kept my cool and nailed the shot. Ended up winning our match!"
+          },
+          {
+            "timestamp": "2024-08-12 16:40",
+            "content": "John: I noticed - well played! You've really taken your game to the next level this summer."
+          },
+          {
+            "timestamp": "2024-08-12 16:44",
+            "content": "You: Having a friend like you to play with regularly has made all the difference. Golf is way more fun with some friendly competition!"
+          },
+          {
+            "timestamp": "2024-08-12 16:50",
+            "content": "John: 100% agree. Already looking forward to our next round!"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T13:10:00.801220"
+}

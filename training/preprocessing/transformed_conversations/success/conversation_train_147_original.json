@@ -1,0 +1,163 @@
+{
+  "original_id": "train_147",
+  "topic": "see a doctor",
+  "original_summary": "#Person2# feels uncomfortable. #Person1# examines #Person2# and gives suggestions.",
+  "transformed_conversations": {
+    "today_date": "2024-07-18",
+    "personal_summary": "Here's a summary of your interactions with Jamie over the past few months. It all started back in early February when Jamie first came to see you complaining of a sore throat, headache and fatigue. After examining him, you diagnosed a bad cold and advised a week of bed rest. \n\nTwo weeks later, Jamie returned still feeling unwell. Further tests revealed he had developed bronchitis. You prescribed antibiotics and a nebulizer. By mid-March, Jamie was feeling better overall but still had a lingering cough. You recommended he continue the breathing treatments a bit longer.\n\nIn April, Jamie came in for a follow-up. The cough had resolved but he reported trouble sleeping and focusing at work, likely due to the lengthy illness. You discussed strategies to catch up on rest and manage stress. Jamie missed his next appointment in May, but you ran into him at the store, where he assured you he was doing much better. \n\nEarlier this summer, Jamie scheduled a visit to discuss updated vaccination recommendations for the coming flu season, given his prolonged sickness last winter. That brings us to today. It's been a long road since February, but you've helped guide Jamie back to good health.",
+    "conversations": [
+      {
+        "date": "2024-02-05",
+        "messages": [
+          {
+            "timestamp": "2024-02-05 10:15",
+            "content": "Jamie: Hey doc, I'm really not feeling well. I have a sore throat and terrible headache."
+          },
+          {
+            "timestamp": "2024-02-05 10:16",
+            "content": "You: I'm sorry to hear that Jamie. Are you feeling fatigued as well?"
+          },
+          {
+            "timestamp": "2024-02-05 10:18",
+            "content": "Jamie: Yes, my whole body feels weak. I just feel awful."
+          },
+          {
+            "timestamp": "2024-02-05 10:20",
+            "content": "You: Okay, let's take a look. Open up and say \"ah\". Hmm your throat is quite inflamed. Looks like you've got a nasty cold. I'm going to recommend staying home and resting for a full week."
+          },
+          {
+            "timestamp": "2024-02-05 10:22",
+            "content": "Jamie: A whole week? Ugh, alright. Thanks doc."
+          }
+        ]
+      },
+      {
+        "date": "2024-02-19",
+        "messages": [
+          {
+            "timestamp": "2024-02-19 15:45",
+            "content": "Jamie: Hi doctor, I know it's been 2 weeks but I'm still feeling lousy. The sore throat is a bit better but I have this awful cough now."
+          },
+          {
+            "timestamp": "2024-02-19 15:47",
+            "content": "You: Hi Jamie. I'm concerned to hear you're still sick. Let's get you back in the office so I can listen to your lungs and run a couple tests. Are you available to come in tomorrow morning?"
+          },
+          {
+            "timestamp": "2024-02-19 15:50",
+            "content": "Jamie: Yeah I can come by before work, around 8:30 or so. See you then."
+          }
+        ]
+      },
+      {
+        "date": "2024-02-20",
+        "messages": [
+          {
+            "timestamp": "2024-02-20 08:40",
+            "content": "You: Hi Jamie, thanks for coming in. Based on your symptoms and the lung sounds, it looks like your cold has progressed to acute bronchitis. I'm going to prescribe a course of antibiotics and get you started on a nebulizer to help open up those airways."
+          },
+          {
+            "timestamp": "2024-02-20 08:45",
+            "content": "Jamie: Bronchitis? No wonder I'm so exhausted. How long until I can go back to work?"
+          },
+          {
+            "timestamp": "2024-02-20 08:47",
+            "content": "You: Give the antibiotics 24-48 hours to start working. Rest up tomorrow and you can probably return to work Thursday if the cough has improved. Make sure to complete the entire 10 day course of antibiotics even if you're feeling better sooner. And do the nebulizer treatments 4 times daily as directed. Call me if anything worsens."
+          },
+          {
+            "timestamp": "2024-02-20 08:50",
+            "content": "Jamie: Okay, got it. Thanks so much, doctor."
+          }
+        ]
+      },
+      {
+        "date": "2024-03-14",
+        "messages": [
+          {
+            "timestamp": "2024-03-14 11:02",
+            "content": "You: Hi Jamie, how are you feeling? Did you finish the antibiotics?"
+          },
+          {
+            "timestamp": "2024-03-14 11:10",
+            "content": "Jamie: Hey doc. Yes I finished all the meds. Feeling better overall but still getting this nagging cough, especially at night. It's hard to sleep."
+          },
+          {
+            "timestamp": "2024-03-14 11:12",
+            "content": "You: Some lingering inflammation and mucus is normal, but I want to make sure we get you back to 100%. Keep doing the nebulizer 2-3 times a day for another week and let's touch base next Friday. Try propping up on an extra pillow to sleep."
+          },
+          {
+            "timestamp": "2024-03-14 11:15",
+            "content": "Jamie: Will do. Thanks for checking in. I'll keep you posted."
+          }
+        ]
+      },
+      {
+        "date": "2024-04-10",
+        "messages": [
+          {
+            "timestamp": "2024-04-10 16:20",
+            "content": "You: Hi Jamie, good to see you. How's the cough?"
+          },
+          {
+            "timestamp": "2024-04-10 16:22",
+            "content": "Jamie: The cough is pretty much gone now, thanks. But to be honest, I'm still dragging a bit. It's been hard to focus at work and I don't feel as sharp as usual."
+          },
+          {
+            "timestamp": "2024-04-10 16:25",
+            "content": "You: Prolonged illness can certainly take a toll. Make sure you're getting at least 8 hours of sleep, eating healthy, and taking time to destress. Go for walks on your breaks, try some breathing exercises. I can refer you to a counselor if you need help managing anxious thoughts."
+          },
+          {
+            "timestamp": "2024-04-10 16:30",
+            "content": "Jamie: I think I'll be okay, just need some time. I'll focus on the self-care stuff you mentioned. Thanks doc."
+          },
+          {
+            "timestamp": "2024-04-10 16:32",
+            "content": "You: Sounds good. Let's plan to check in again next month. But call me sooner if you're not bouncing back."
+          }
+        ]
+      },
+      {
+        "date": "2024-05-22",
+        "messages": [
+          {
+            "timestamp": "2024-05-22 12:05",
+            "content": "You: Hey Jamie, I noticed you missed your appointment last week. How are you doing?"
+          },
+          {
+            "timestamp": "2024-05-22 12:15",
+            "content": "Jamie: Oh hi Doctor! Yeah sorry about that, I got tied up at work and completely forgot to call. I'm actually feeling a lot better. I ran into you at the grocery store on Saturday, remember?"
+          },
+          {
+            "timestamp": "2024-05-22 12:17",
+            "content": "You: That's right, I forgot! Glad you're doing well. Let's get you rescheduled for a quick check-in next month."
+          },
+          {
+            "timestamp": "2024-05-22 12:20",
+            "content": "Jamie: Sounds good, I'll call the office tomorrow and get something on the books."
+          }
+        ]
+      },
+      {
+        "date": "2024-06-30",
+        "messages": [
+          {
+            "timestamp": "2024-06-30 09:40",
+            "content": "Jamie: Hi doctor, I'd like to come in sometime next week to discuss flu shots and stuff for the fall. I want to make sure I'm prepared since I got so sick last winter."
+          },
+          {
+            "timestamp": "2024-06-30 09:42",
+            "content": "You: Great idea, Jamie. Let's look at the updated vaccine recommendations and make a prevention plan together. How's Tuesday at 10AM?"
+          },
+          {
+            "timestamp": "2024-06-30 09:45",
+            "content": "Jamie: Tuesday works great. See you then!"
+          },
+          {
+            "timestamp": "2024-06-30 09:47",
+            "content": "You: Perfect, see you next week. Glad you're being proactive!"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T13:39:05.433723"
+}

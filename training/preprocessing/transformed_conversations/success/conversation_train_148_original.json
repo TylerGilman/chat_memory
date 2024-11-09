@@ -1,0 +1,124 @@
+{
+  "original_id": "train_148",
+  "topic": "job-hopping",
+  "original_summary": "Zina tells Dave her idea of job-hopping to the rival company and Dave is stunned.",
+  "transformed_conversations": {
+    "today_date": "2024-07-18",
+    "personal_summary": "Here's a summary of your interactions with Dave regarding your potential job change, Zina. It all started back in early May when you first confided in Dave that you were considering leaving the company for WebTracker, our main competitor. He was shocked but agreed to keep it between you two. A couple weeks later in mid-May, you had a more in-depth discussion where you explained your motivations and Dave shared his concerns but ultimately said he would support your decision. Then last month in June, you let Dave know you had interviewed with WebTracker and it went well. He cautioned you again to be careful, especially around Elvin who might retaliate if he found out. Finally, just last week, you excitedly told Dave that you got the job offer from WebTracker and planned to accept. While sad to see you go, he congratulated you and promised to stay in touch. So in the span of about 2.5 months, you went from first floating the idea to now being on the verge of making the leap to WebTracker, with Dave being your main confidant throughout the process.",
+    "conversations": [
+      {
+        "date": "2024-05-03",
+        "messages": [
+          {
+            "timestamp": "2024-05-03 13:22",
+            "content": "You: Dave, there's something I want to talk to you about."
+          },
+          {
+            "timestamp": "2024-05-03 13:23",
+            "content": "Dave: Zina, why are you whispering?"
+          },
+          {
+            "timestamp": "2024-05-03 13:23",
+            "content": "You: I've been talking to WebTracker. I'm thinking of jumping ship."
+          },
+          {
+            "timestamp": "2024-05-03 13:24",
+            "content": "Dave: What? Are you serious? You'd defect to our archrival!?"
+          },
+          {
+            "timestamp": "2024-05-03 13:24",
+            "content": "You: Keep your voice down. We'll talk more later. Right now I need to see Vince."
+          },
+          {
+            "timestamp": "2024-05-03 13:25",
+            "content": "Dave: We definitely have to talk, Zina. And watch your back. Elvin is still mad about his nose."
+          },
+          {
+            "timestamp": "2024-05-03 13:25",
+            "content": "You: OK, but don't tell anyone what I said."
+          }
+        ]
+      },
+      {
+        "date": "2024-05-19",
+        "messages": [
+          {
+            "timestamp": "2024-05-19 17:05",
+            "content": "You: Hey Dave, got a minute to chat more about what I mentioned the other week?"
+          },
+          {
+            "timestamp": "2024-05-19 17:10",
+            "content": "Dave: Sure, I'm in the breakroom. Come by."
+          },
+          {
+            "timestamp": "2024-05-19 17:25",
+            "content": "You: I've been at this company 5 years and just feel I've hit a ceiling here. WebTracker is doing cutting edge stuff and I think it could be a great opportunity for me to learn and grow."
+          },
+          {
+            "timestamp": "2024-05-19 17:27",
+            "content": "Dave: I get that. But you've built up a lot of cred here. You'd be starting from scratch there. Plus we have some big projects coming up I thought you'd be leading."
+          },
+          {
+            "timestamp": "2024-05-19 17:30",
+            "content": "You: I know, I'm really torn. Part of me feels I'm being ungrateful or like I'm abandoning the team. But I have to think about my future too."
+          },
+          {
+            "timestamp": "2024-05-19 17:32",
+            "content": "Dave: Well, I can't tell you what to do. You have to do what's right for you. But be sure you've really thought it through. And be super discreet. If certain people find out, they could make your life difficult."
+          },
+          {
+            "timestamp": "2024-05-19 17:35",
+            "content": "You: I appreciate that Dave, thanks. I'm still weighing everything but I value your advice. And don't worry, mum's the word."
+          }
+        ]
+      },
+      {
+        "date": "2024-06-11",
+        "messages": [
+          {
+            "timestamp": "2024-06-11 10:10",
+            "content": "You: Psst, Dave - just had my interview with WebTracker!"
+          },
+          {
+            "timestamp": "2024-06-11 10:12",
+            "content": "Dave: Whoa, that was fast! How'd it go?"
+          },
+          {
+            "timestamp": "2024-06-11 10:15",
+            "content": "You: Really well I think! Seems like an awesome team and they're working on some groundbreaking AI projects. Should hear back next week."
+          },
+          {
+            "timestamp": "2024-06-11 10:16",
+            "content": "Dave: That's great Zina, happy for you. Keep me posted. And stay alert - I heard Elvin grumbling about you this morning. Hopefully he doesn't suspect anything."
+          }
+        ]
+      },
+      {
+        "date": "2024-07-10",
+        "messages": [
+          {
+            "timestamp": "2024-07-10 14:18",
+            "content": "You: Dave!!! I got the job! I'm putting in my notice tomorrow. Wanted you to be the first to know!"
+          },
+          {
+            "timestamp": "2024-07-10 14:20",
+            "content": "Dave: WOW congrats Zina!! That's fantastic! I'm really gonna miss working with you but so excited for your new adventure."
+          },
+          {
+            "timestamp": "2024-07-10 14:21",
+            "content": "You: Aww I'll miss you too. The last 5 years have been a wild ride. I couldn't have done it without you. Let's definitely stay in touch."
+          },
+          {
+            "timestamp": "2024-07-10 14:22",
+            "content": "Dave: 100%! And hey, who knows, maybe WebTracker will be hiring again soon ;)"
+          },
+          {
+            "timestamp": "2024-07-10 14:23",
+            "content": "You: LOL don't tempt me! But seriously, thanks for everything and for being such a great friend. Drinks on me next week to celebrate!"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T13:39:53.058873"
+}

@@ -1,0 +1,10 @@
+{
+  "original_id": "train_114",
+  "error": "Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",
+  "timestamp": "2024-11-08T13:13:46.189907",
+  "original_data": {
+    "topic": "neighbour",
+    "summary": "Tom just moved in and he introduces himself to his neighbor Alice, who teaches mathematics at college and has lived here for about six years.",
+    "dialogue": "#Person1#: Hello!\n#Person2#: Oh, hi!\n#Person1#: Please allow me to introduce myself. My name is Tom.\n#Person2#: Pleased to meet you. My name is Alice. Did you just move in next door?\n#Person1#: Yes, I did. Have you lived here long?\n#Person2#: Me? I guess so. I've lived here for about six years now. Have you lived in America very long?\n#Person1#: No, not really. When I left Vietnam, I came to America and I lived with a cousin in Dallas for two years. Where do you work, Alice?\n#Person2#: I teach mathematics at a college. What do you do?\n#Person1#: I am an accountant at a company.\n#Person2#: Well, Tom. It's good to meet you. I have to go now. I am teaching a class this evening, and I need to get to the college.\n#Person1#: It's nice meeting you too, Alice.\n#Person2#: See you around!\n#Person1#: Goodbye, Alice."
+  }
+}

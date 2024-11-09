@@ -1,0 +1,28 @@
+[START DATE]
+2024-02-15
+[END DATE]
+2024-05-14
+[CHAT MESSAGES]
+2024-02-15 14:22 | You: John, I've asked you not to smoke in here! I don't want to see you smoking in my office again.
+2024-02-15 14:23 | John: I'm sorry, Ms. Fairbanks. I won't let it happen again.
+2024-02-15 14:24 | You: That's what you said the last time! If you want to smoke, you'll have to use your break time and go outside!
+2024-02-15 14:25 | John: I understand, Ms. Fairbanks.
+2024-03-02 10:47 | You: John, Angela said she saw you smoking in the breakroom this morning. We've talked about this.
+2024-03-02 10:51 | John: What? That's ridiculous. I barely smoke in there.
+2024-03-02 10:53 | You: John, it doesn't matter how often. You can't smoke inside the building at all, period. No more warnings.
+2024-03-02 10:57 | John: Okay, okay. I get it. I'll go outside from now on, I promise.
+2024-05-06 16:03 | You: John! I can't believe you're smoking in the supply closet. This is unacceptable!
+2024-05-06 16:05 | John: Ms. Fairbanks! I'm so sorry, I thought I could sneak a quick one. I know I screwed up.
+2024-05-06 16:08 | You: Yes you did. This is your official write up warning. Three strikes and you're looking at suspension, got it?
+2024-05-06 16:10 | John: I understand. I'm under a lot of stress but I know that's no excuse. It won't happen again.
+2024-05-14 12:34 | John: Ms. Fairbanks, I wanted you to know I've scheduled an appointment with the EAP counselor to discuss managing stress and quitting smoking for good. I'm committed to stopping this time.
+2024-05-14 12:39 | You: John, that's great. I really appreciate you taking the initiative to change this behavior. Let me know if you need any support.
+2024-05-14 12:42 | John: Thank you, I will. And again, I'm sorry for all the trouble I've caused. It ends now.
+[SUMMARY]
+Here's a summary of your interactions with John regarding his smoking in the office, Ms. Fairbanks. The issue first came to a head on February 15th when you reprimanded him for smoking in your office during work hours. He apologized, but you reminded him it wasn't the first time and that he needs to smoke outside on his breaks. 
+
+A couple weeks later on March 2nd, you had to speak to him again when Angela reported seeing him smoking in the breakroom. John got defensive but ultimately acknowledged he needs to follow the rules. After that, things seemed to improve for a while.
+
+However, earlier this month on May 6th, you walked in on John smoking in the supply closet. You were quite upset, as it had been over two months since the last incident. You wrote him up with an official warning. John apologized profusely and said he's been very stressed lately but knows that's no excuse. 
+
+In your last conversation about it on May 14th, John told you he scheduled his first appointment with the employee assistance counselor to discuss strategies for managing stress and quitting smoking. You expressed your appreciation for him taking those positive steps. All in all, while there have been multiple violations and conversations over the past 3 months, John seems to be making a real effort to change his behavior now. You're cautiously optimistic he's finally taking it seriously.

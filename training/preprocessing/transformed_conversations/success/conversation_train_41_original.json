@@ -1,0 +1,154 @@
+{
+  "original_id": "train_41",
+  "topic": "leave a message",
+  "original_summary": "Harris calls Olivia, but Olivia's out. #Person2# asks him to leave a message.",
+  "transformed_conversations": {
+    "today_date": "2024-08-15",
+    "personal_summary": "Here's a summary of your interactions with Olivia over the past couple months, Harris. Back in early June, you called and left a message with her coworker about meeting Olivia at the cinema box office at 7:10pm that evening. A few days later, Olivia texted to apologize for the miscommunication and missing the movie. You made plans to grab coffee instead the following weekend to catch up. \n\nIn mid-June over coffee, you had a great conversation and discovered you both love hiking. You made tentative plans to go on a hike together sometime. Then in early July, Olivia reached out about getting together for that hike. You agreed on a nearby trail and had a fun but tiring outing together - the trail ended up being harder than expected! Afterwards, you texted back and forth a bit and agreed you should do it again sometime, but maybe an easier route next time.\n\nA few weeks went by without connecting, but then late last month, Olivia messaged asking if you'd like to catch an outdoor movie screening together. You weren't able to make the first date she suggested, but countered with seeing a different film the next weekend instead. You met up for the movie last Saturday evening and had a nice time. Seems like you've both enjoyed getting to know each other more over the summer through these various outings and conversations! Let me know if you need anything else.",
+    "conversations": [
+      {
+        "date": "2024-06-05",
+        "messages": [
+          {
+            "timestamp": "2024-06-05 13:22",
+            "content": "Olivia's Coworker: Hi Harris, this is Olivia's coworker. I'm sorry but she's out for lunch right now. Do you want to leave a message?"
+          },
+          {
+            "timestamp": "2024-06-05 13:23",
+            "content": "You: Yes, could you please tell Olivia that I'll wait for her at the box office of the cinema at 7:10 tonight?"
+          },
+          {
+            "timestamp": "2024-06-05 13:24",
+            "content": "Olivia's Coworker: Sure, I'll let her know you'll meet her at the box office at 10."
+          },
+          {
+            "timestamp": "2024-06-05 13:24",
+            "content": "You: No, at 7:10, not 10."
+          },
+          {
+            "timestamp": "2024-06-05 13:25",
+            "content": "Olivia's Coworker: Oh sorry, 7:10, got it. I'll pass along the message to Olivia."
+          },
+          {
+            "timestamp": "2024-06-05 13:25",
+            "content": "You: Great, thank you so much!"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-08",
+        "messages": [
+          {
+            "timestamp": "2024-06-08 17:03",
+            "content": "Olivia: Hey Harris, I'm so sorry about the other day! I got caught up at work and totally missed my coworker's message about meeting you. Rain check?"
+          },
+          {
+            "timestamp": "2024-06-08 17:10",
+            "content": "You: No worries, these things happen. How about we grab coffee this weekend instead and catch up?"
+          },
+          {
+            "timestamp": "2024-06-08 17:14",
+            "content": "Olivia: That sounds great! I'm free Saturday afternoon if that works for you."
+          },
+          {
+            "timestamp": "2024-06-08 17:16",
+            "content": "You: Saturday at 2pm at the cafe on Main St?"
+          },
+          {
+            "timestamp": "2024-06-08 17:20",
+            "content": "Olivia: Perfect, see you then!"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-12",
+        "messages": [
+          {
+            "timestamp": "2024-06-12 14:05",
+            "content": "You: Hey Olivia, I had a great time chatting over coffee yesterday! Seems like we have a lot in common."
+          },
+          {
+            "timestamp": "2024-06-12 14:11",
+            "content": "Olivia: Me too, it was so nice to discover a fellow hiking enthusiast! We should hit the trails together sometime."
+          },
+          {
+            "timestamp": "2024-06-12 14:13",
+            "content": "You: Definitely! I know some great routes. Let me know when you're free and we can plan something."
+          },
+          {
+            "timestamp": "2024-06-12 14:15",
+            "content": "Olivia: Sounds good, I'll take a look at my schedule and get back to you. Talk soon!"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-02",
+        "messages": [
+          {
+            "timestamp": "2024-07-02 10:32",
+            "content": "Olivia: Hi Harris, I hope you had a good week! I'm free this Saturday if you wanted to do that hike we talked about."
+          },
+          {
+            "timestamp": "2024-07-02 10:40",
+            "content": "You: Hey Olivia! This Saturday works well for me. How about Mount Oakwood trail around 10am?"
+          },
+          {
+            "timestamp": "2024-07-02 10:43",
+            "content": "Olivia: Ooh I've heard that's a nice one. Sounds perfect, I'll pack us some snacks and meet you at the trailhead at 10!"
+          },
+          {
+            "timestamp": "2024-07-02 10:45",
+            "content": "You: Awesome, can't wait! See you then."
+          }
+        ]
+      },
+      {
+        "date": "2024-07-03",
+        "messages": [
+          {
+            "timestamp": "2024-07-03 15:22",
+            "content": "You: Whew, that hike was no joke! Legs are definitely feeling it today. Was great to get out there with you though!"
+          },
+          {
+            "timestamp": "2024-07-03 15:30",
+            "content": "Olivia: Oh I know, I'm so sore! Definitely a tougher trail than I was expecting. But agreed, it was a fun adventure! We'll have to do it again sometime."
+          },
+          {
+            "timestamp": "2024-07-03 15:34",
+            "content": "You: For sure, maybe a slightly easier route next time though \ud83d\ude09"
+          },
+          {
+            "timestamp": "2024-07-03 15:37",
+            "content": "Olivia: Haha yes, I second that!"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-28",
+        "messages": [
+          {
+            "timestamp": "2024-07-28 19:03",
+            "content": "Olivia: Hey there, how's your week going? I saw there's an outdoor movie in the park this Friday - wanted to see if you might like to go together?"
+          },
+          {
+            "timestamp": "2024-07-28 19:10",
+            "content": "You: Hi Olivia, good to hear from you! This week has been crazy busy for me unfortunately and I have plans Friday. What's playing next week? Maybe we could catch that instead?"
+          },
+          {
+            "timestamp": "2024-07-28 19:14",
+            "content": "Olivia: Ah too bad, but I understand. Next Friday they're showing Indiana Jones and the Last Crusade. Interested?"
+          },
+          {
+            "timestamp": "2024-07-28 19:17",
+            "content": "You: Ooh a classic, I'm definitely up for that! Want to meet there around 7:30 and I can bring a picnic blanket for us?"
+          },
+          {
+            "timestamp": "2024-07-28 19:20",
+            "content": "Olivia: That would be lovely, consider it a date! Looking forward to it."
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T12:09:24.229935"
+}

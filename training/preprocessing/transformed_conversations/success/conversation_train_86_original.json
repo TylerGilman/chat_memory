@@ -1,0 +1,96 @@
+{
+  "original_id": "train_86",
+  "topic": "give home assignments",
+  "original_summary": "#Person1# gives #Person2# home assignments and asks students to get a calculator and review today's notes.",
+  "transformed_conversations": {
+    "today_date": "2024-05-17",
+    "personal_summary": "Here's a summary of your interactions with your student over the past few months regarding homework, calculators and quizzes. Back in early February, you gave the initial homework assignment of reading pages 12-20 and doing exercises 1-10. You clarified students didn't need to type it. You also mentioned they should get calculators and might have a quiz on the day's notes. \n\nIn mid-March, the student followed up asking if the homework was due before or after spring break. You said after break was fine. In April, they had trouble with one of the homework exercises and you walked through it together after class. Most recently last week, the student asked if calculators would be allowed on the upcoming test and you confirmed yes. Overall, the student has been diligent about assignments and you've helped clarify expectations and material when needed.",
+    "conversations": [
+      {
+        "date": "2024-02-05",
+        "messages": [
+          {
+            "timestamp": "2024-02-05 14:32",
+            "content": "You: For tomorrow, read pages 12 to 20. Then do exercises one through ten on page 21."
+          },
+          {
+            "timestamp": "2024-02-05 14:33",
+            "content": "Student: Do we have to type out our homework?"
+          },
+          {
+            "timestamp": "2024-02-05 14:35",
+            "content": "You: No. You only do that when you write reports."
+          },
+          {
+            "timestamp": "2024-02-05 14:36",
+            "content": "Student: Is there anything else?"
+          },
+          {
+            "timestamp": "2024-02-05 14:37",
+            "content": "You: For those of you who don't have a calculator, get one."
+          },
+          {
+            "timestamp": "2024-02-05 14:38",
+            "content": "Student: We are allowed to use a calculator in class?"
+          },
+          {
+            "timestamp": "2024-02-05 14:40",
+            "content": "You: Yes. By the way, review today's notes this evening. We may have a small quiz tomorrow."
+          }
+        ]
+      },
+      {
+        "date": "2024-03-15",
+        "messages": [
+          {
+            "timestamp": "2024-03-15 10:02",
+            "content": "Student: Is the homework due before or after spring break?"
+          },
+          {
+            "timestamp": "2024-03-15 10:15",
+            "content": "You: Let's make it due the Tuesday after break. Enjoy your time off!"
+          },
+          {
+            "timestamp": "2024-03-15 10:17",
+            "content": "Student: Great, thanks! I'll get it done."
+          }
+        ]
+      },
+      {
+        "date": "2024-04-10",
+        "messages": [
+          {
+            "timestamp": "2024-04-10 15:45",
+            "content": "Student: I'm stuck on exercise 7 from the homework. Can you help explain it?"
+          },
+          {
+            "timestamp": "2024-04-10 15:47",
+            "content": "You: Absolutely. Come see me after class and we'll walk through it together."
+          },
+          {
+            "timestamp": "2024-04-10 15:49",
+            "content": "Student: Ok, I'll bring my work. Thanks!"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-10",
+        "messages": [
+          {
+            "timestamp": "2024-05-10 13:01",
+            "content": "Student: Are we allowed to use calculators on the chapter 5 test?"
+          },
+          {
+            "timestamp": "2024-05-10 13:06",
+            "content": "You: Yes, calculators are permitted for the test problems. Be sure to show your work too."
+          },
+          {
+            "timestamp": "2024-05-10 13:08",
+            "content": "Student: Got it. I'll remember to write out the steps. See you in class!"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T12:50:46.886557"
+}

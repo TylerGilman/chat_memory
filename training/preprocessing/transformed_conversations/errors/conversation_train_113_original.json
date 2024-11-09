@@ -1,0 +1,10 @@
+{
+  "original_id": "train_113",
+  "error": "Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",
+  "timestamp": "2024-11-08T13:13:41.164961",
+  "original_data": {
+    "topic": "terrible connection",
+    "summary": "#Person1# calls Mr. Wu to query about his information but the connection is terrible.",
+    "dialogue": "#Person1#: Hi, is that Mr. Wu?\n#Person2#: Yes. What can I do for you?\n#Person1#: I am calling to query about some of your information.\n#Person2#: We've got a bad line. Can you repeat that please?\n#Person1#: I said I want to ask about some of your information.\n#Person2#: Sorry, the connection is terrible. I'll call you back because I can't hear anything."
+  }
+}

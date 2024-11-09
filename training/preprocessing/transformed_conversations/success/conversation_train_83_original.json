@@ -1,0 +1,99 @@
+{
+  "original_id": "train_83",
+  "topic": "order food",
+  "original_summary": "#Person2# orders mutton chop, apple pie, and coffee for #Person2#'s meal instead of regular dinner under #Person1#'s recommendation.",
+  "transformed_conversations": {
+    "today_date": "2024-07-18",
+    "personal_summary": "Here's a summary of your interactions with the customer regarding their dinner order, which started two weeks ago on July 4th. You initially took their order for the regular dinner courses, but then recommended they try the mutton chop special instead, which they agreed to along with switching to apple pie for dessert. \n\nA few days later on July 8th, the customer messaged to let you know how much they enjoyed the meal and to ask about this week's specials. You had a nice back-and-forth discussing the new summer menu options. \n\nThen last Friday, July 14th, they made a reservation for this coming weekend and placed an order in advance for the sea bass special with a berry tart for dessert that you had suggested. Overall, you've built a nice rapport with this customer over the past two weeks by providing attentive recommendations and service.",
+    "conversations": [
+      {
+        "date": "2024-07-04",
+        "messages": [
+          {
+            "timestamp": "2024-07-04 18:32",
+            "content": "You: Good evening! May I take your order?"
+          },
+          {
+            "timestamp": "2024-07-04 18:33",
+            "content": "Customer: We'd like the regular dinner please. Could you remind me of the courses?"
+          },
+          {
+            "timestamp": "2024-07-04 18:35",
+            "content": "You: Of course. The regular dinner includes a fish salad appetizer, steak main course, and chocolate cake for dessert."
+          },
+          {
+            "timestamp": "2024-07-04 18:36",
+            "content": "Customer: Sounds good, we'll do that."
+          },
+          {
+            "timestamp": "2024-07-04 18:37",
+            "content": "You: Excellent. I also wanted to let you know our mutton chop is particularly good this evening if you'd like that for your main instead of the steak."
+          },
+          {
+            "timestamp": "2024-07-04 18:39",
+            "content": "Customer: Oh great idea, let's do the mutton chop. And could we switch to apple pie for dessert? We'd like coffee afterwards as well."
+          },
+          {
+            "timestamp": "2024-07-04 18:41",
+            "content": "You: Absolutely, I'll put that order in for you. Your appetizers will be right out and dinner will be ready shortly."
+          }
+        ]
+      },
+      {
+        "date": "2024-07-08",
+        "messages": [
+          {
+            "timestamp": "2024-07-08 13:03",
+            "content": "Customer: Just wanted to let you know we really enjoyed our dinner the other night. The mutton chop was amazing!"
+          },
+          {
+            "timestamp": "2024-07-08 13:08",
+            "content": "You: I'm so glad to hear that! Thanks for letting me know."
+          },
+          {
+            "timestamp": "2024-07-08 13:12",
+            "content": "Customer: Of course! Do you have any new specials this week?"
+          },
+          {
+            "timestamp": "2024-07-08 13:15",
+            "content": "You: Yes, we just launched our new summer menu! The sea bass with mango salsa is a standout. And we have a delicious mixed berry tart for dessert."
+          },
+          {
+            "timestamp": "2024-07-08 13:17",
+            "content": "Customer: Wow those both sound great. I'll have to try them next time!"
+          },
+          {
+            "timestamp": "2024-07-08 13:19",
+            "content": "You: Definitely, I think you'll really enjoy them! Let me know when you'd like to make another reservation."
+          }
+        ]
+      },
+      {
+        "date": "2024-07-14",
+        "messages": [
+          {
+            "timestamp": "2024-07-14 10:22",
+            "content": "Customer: Hey there, I'd like to make a reservation for this Saturday night, party of 2."
+          },
+          {
+            "timestamp": "2024-07-14 10:25",
+            "content": "You: Great, I have you down for this Saturday at 7pm. Would you like to place an order in advance?"
+          },
+          {
+            "timestamp": "2024-07-14 10:28",
+            "content": "Customer: Yes, let's do the sea bass special you mentioned, and the berry tart for dessert."
+          },
+          {
+            "timestamp": "2024-07-14 10:30",
+            "content": "You: Excellent choices! I've noted the sea bass and berry tart for two. We look forward to seeing you on Saturday!"
+          },
+          {
+            "timestamp": "2024-07-14 10:32",
+            "content": "Customer: Great, thanks so much! See you then."
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T12:47:35.736078"
+}

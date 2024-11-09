@@ -1,0 +1,54 @@
+[START DATE]
+2024-04-02
+[END DATE]
+2024-06-14
+[CHAT MESSAGES]
+2024-04-02 10:15 | You: Hello, this is Lucie Jing calling from Lincoln Bank. May I speak to Mr. Was, please?
+2024-04-02 10:15 | Mr. Was: Speaking.
+2024-04-02 10:16 | You: Ah, hello, Mr. Was. I'm just calling about your new credit card. It has arrived with us, so you can either come to collect it, or we can send it on to you.
+2024-04-02 10:16 | Mr. Was: Sending it won't be necessary. I'm actually coming in for a meeting with my Personal Banker this afternoon.
+2024-04-02 10:17 | You: What perfect timing!
+2024-04-02 10:17 | Mr. Was: Indeed. Is there anything I need to do before I collect it?
+2024-04-02 10:18 | You: Not really. But we do recommend you to read through our terms and conditions again before you sign the card, just in case there is something you aren't happy with.
+2024-04-02 10:18 | Mr. Was: I'm sure it'll be fine. How about my PIN number?
+2024-04-02 10:19 | You: That will be sent on to you within 2 working days. Then, you can start using your new card.
+2024-04-02 10:19 | Mr. Was: Great. I'll be in later today. Thanks for calling. Bye.
+2024-04-15 14:03 | Mr. Was: Hi Lucie, I had a couple questions about my new credit card if you have a moment.
+2024-04-15 14:05 | You: Of course, happy to help! What would you like to know?
+2024-04-15 14:07 | Mr. Was: Could you remind me of the main benefits and features? I want to make sure I'm taking full advantage.
+2024-04-15 14:10 | You: Absolutely. Your card comes with 3% cash back on all travel and dining purchases, 2% on groceries and gas, and 1% on everything else. You also get a generous sign-up bonus of 50,000 points if you spend $3,000 in the first 3 months.
+2024-04-15 14:11 | You: Some other key perks include no foreign transaction fees, trip cancellation insurance, and a $100 annual travel credit. There's also concierge service and access to exclusive events.
+2024-04-15 14:13 | Mr. Was: Wow, that's quite comprehensive. And what's the APR?
+2024-04-15 14:15 | You: The standard APR is 18.99% but you have a 12 month 0% intro APR on purchases and balance transfers. After that it's 18.99% variable.
+2024-04-15 14:16 | Mr. Was: Great, thanks for the rundown Lucie. I think this card will suit me well. Have a good one!
+2024-04-15 14:17 | You: My pleasure! Enjoy the new card and let me know if you need anything else.
+2024-05-06 11:41 | Mr. Was: Hi Lucie, I still haven't received my PIN for the new card. It's been almost 3 weeks...
+2024-05-06 11:45 | You: I apologize for the delay Mr. Was. Let me look into that for you right now.
+2024-05-06 11:49 | You: It looks like there was an issue with the address on file. I've corrected it and requested a new PIN be mailed out immediately. You should have it within 3-5 business days.
+2024-05-06 11:51 | Mr. Was: Okay, thanks for sorting that out. Hopefully it arrives soon so I can start using the card properly.
+2024-05-06 11:52 | You: Absolutely, again I'm sorry for the mixup. Feel free to call me directly if you don't receive it by late next week.
+2024-05-06 11:55 | Mr. Was: Will do. Appreciate your help!
+2024-06-10 16:22 | Mr. Was: Hi Lucie, I was reviewing my statement and noticed some charges I don't recognize. I think there may be some fraud on my account.
+2024-06-10 16:25 | You: I'm so sorry to hear that Mr. Was. Let's look into it right away. Can you tell me a bit more about the charges?
+2024-06-10 16:27 | Mr. Was: There are 3 charges at gas stations in Texas, but I've never been there. They're all for around $75 each.
+2024-06-10 16:29 | You: Okay, I see the charges you're referring to. I agree they look suspicious given the location. To be safe, I'm going to deactivate your current card and issue you a new one.
+2024-06-10 16:30 | You: I'll also start the dispute process on those charges - you'll need to sign a form confirming they're fraudulent but you won't be liable for them. The whole process may take a couple weeks.
+2024-06-10 16:33 | Mr. Was: Okay, that's a relief. When should I expect the new card? And will I need to update any automatic payments?
+2024-06-10 16:35 | You: The replacement card should arrive within 5 business days. Yes, you'll want to update any recurring payments with the new card number once you activate it. Keep an eye out for a letter about the dispute status as well.
+2024-06-10 16:37 | Mr. Was: Got it, I'll be on the lookout. Hopefully this is just a one-time thing. Thanks for the quick action.
+2024-06-10 16:38 | You: You're welcome, and I hope so too. Call me if you have any other issues. Have a good weekend!
+2024-06-14 10:02 | You: Good morning Mr. Was, I'm just following up on your replacement card. Did you receive it yesterday?
+2024-06-14 10:06 | Mr. Was: Hi Lucie. Yes, I got the new card and activated it. I updated my bill payments too.
+2024-06-14 10:07 | You: Excellent, glad to hear it. And I have more good news - the dispute was processed and those fraudulent charges have been permanently removed from your account.
+2024-06-14 10:09 | Mr. Was: That's great! I just checked my statement and see the reversal. Really appreciate you taking care of all that so quickly.
+2024-06-14 10:11 | You: It's my pleasure. I'm just happy we could get it resolved without too much hassle for you. Remember, your card has zero liability on unauthorized charges so you're always protected.
+2024-06-14 10:13 | Mr. Was: That's really good to know. I feel much better having sorted this out. Thanks again for your help, Lucie.
+2024-06-14 10:14 | You: You're so welcome. Don't hesitate to reach out if you need anything else! Have a wonderful day.
+[SUMMARY]
+Here's a summary of your interactions with Mr. Was regarding his new credit card, Lucie. It all started back in early April when you first called him to let him know his new card had arrived. He opted to pick it up in person that same afternoon when meeting with his banker. 
+
+A couple weeks later in mid-April, he reached out asking some follow-up questions about the card benefits and features. You had a detailed discussion and he seemed satisfied with the card. However, in early May, he contacted you again as he hadn't received his PIN yet after nearly 3 weeks. You looked into it and got that resolved for him.
+
+Things were quiet for about a month until earlier this month in June when Mr. Was called with concerns about some suspicious charges on his new card. You helped him dispute the charges and ordered him a replacement card as a precaution. Just last week, you touched base again and he confirmed receiving the new card and that all the fraudulent charges were successfully removed. 
+
+So in summary, over the course of these past 2.5 months since he got the card, you've helped Mr. Was activate and start using his card, resolve a delay with his PIN, and unfortunately had to help him deal with some fraudulent activity and get a replacement card. But he seems satisfied with the card and your service overall. Let me know if you need anything else!

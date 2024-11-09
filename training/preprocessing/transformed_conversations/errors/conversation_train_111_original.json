@@ -1,0 +1,10 @@
+{
+  "original_id": "train_111",
+  "error": "Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",
+  "timestamp": "2024-11-08T13:13:30.721804",
+  "original_data": {
+    "topic": "take a nap",
+    "summary": "#Person1# fell asleep very late because #Person1# had too much on the mind. #Person2# gives #Person1# some suggestions but #Person1# only wants to take a nap right now.",
+    "dialogue": "#Person1#: I really want to take a nap. I feel very sleepy today.\n#Person2#: What's the matter? Didn't you get enough sleep last night?\n#Person1#: I fell asleep very late. It was almost two o'clock in the morning when I finally fell asleep.\n#Person2#: Are you worried about something? Why couldn't you sleep?\n#Person1#: You know how it is when you're in a strange country. Everything is new, and you get tired and nervous sometimes. Then you worry about your family, about conditions back home, about your courses, about your money, about everything. I tried to fall asleep but I just had too much on my mind.\n#Person2#: Well, take it easy. Things will look better tomorrow. Maybe you should try exercising or a hot bath to help you relax.\n#Person1#: Anything is worth a try. But right now I really just want to find a quiet place to take a nap."
+  }
+}

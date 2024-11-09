@@ -1,0 +1,10 @@
+{
+  "original_id": "train_118",
+  "error": "Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",
+  "timestamp": "2024-11-08T13:14:07.183248",
+  "original_data": {
+    "topic": "reserve a room",
+    "summary": "#Person2# helps John Sandals to reserve a nonsmoking room with a queen-size bed from April 14 till April 17.",
+    "dialogue": "#Person1#: Can I reserve a hotel room?\n#Person2#: I assure you, that's not a problem. What is your full name, please?\n#Person1#: My name's John Sandals.\n#Person2#: It's a pleasure to assist you. Please tell me when you'll be needing the room, sir.\n#Person1#: If my plans don't change, I'll need a room April 14 till April 17.\n#Person2#: Sir, our room prices are slightly higher than you may have thought. Will that be okay?\n#Person1#: Tell me how much it will be, and I can tell you if it's okay.\n#Person2#: Only $ 308 per night, before taxes, of course.\n#Person1#: $ 308 a night? That's a fair price.\n#Person2#: Now, as for the room, sir, do you prefer smoking or nonsmoking?\n#Person1#: Nonsmoking, please.\n#Person2#: Nonsmoking. Now, sir, does a single queen-size bed meet your approval?\n#Person1#: I have absolutely no problem with that.\n#Person2#: Queen, nonsmoking. Okay, sir, your room is reserved. Now if you'll just give me your phone number.\n#Person1#: Not a problem. The number is 626-555-1739.\n#Person2#: Thank you for making a reservation with us. We look forward to seeing you in April!"
+  }
+}

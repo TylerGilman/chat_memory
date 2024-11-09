@@ -1,0 +1,152 @@
+{
+  "original_id": "train_184",
+  "topic": "summer plans",
+  "original_summary": "Jack tells #Person1# he is staying here during the vacation to gain some working experience while #Person1# is leaving for home.",
+  "transformed_conversations": {
+    "today_date": "2024-07-18",
+    "personal_summary": "Here's a summary of your interactions with Jack about his summer plans. It all started back on May 3rd when you had that initial conversation in person about him staying here to work at Michael's uncle's institution while you were leaving for Hawaii the next day. Then on May 15th, just under 2 weeks later, you checked in with him over text to see how the volunteer work was going. He mentioned it was challenging but rewarding so far. \n\nAlmost a month passed before you touched base again in mid-June. On June 12th, Jack excitedly told you that his volunteer project was going so well that they offered him a paid part-time position for the rest of the summer. You congratulated him on the great news. Finally, just last week on July 10th, you had a longer catch-up session. Jack filled you in on how much he's been learning on the job and how glad he is that he decided to stay and get this valuable experience. He said he's planning to visit his family for a week in August before school starts back up. \n\nSo in the span of about 2.5 months, Jack went from planning to volunteer for the summer, to impressing them enough to get hired part-time, to feeling really positive about his decision to stay and work. It's been quite the journey! Let me know if you need anything else.",
+    "conversations": [
+      {
+        "date": "2024-05-03",
+        "messages": [
+          {
+            "timestamp": "2024-05-03 14:32",
+            "content": "You: Hi, Jack. Who are you writing to?"
+          },
+          {
+            "timestamp": "2024-05-03 14:33",
+            "content": "Jack: I'm writing to my parents telling them I'll stay here this summer."
+          },
+          {
+            "timestamp": "2024-05-03 14:34",
+            "content": "You: You're not going home? I thought you were going on a trip to Japan with your family."
+          },
+          {
+            "timestamp": "2024-05-03 14:35",
+            "content": "Jack: Well, I intended to go with them, but I thought again and changed my mind."
+          },
+          {
+            "timestamp": "2024-05-03 14:37",
+            "content": "You: Tell me. I'm interested in knowing what keeps you from joining your beloved family and staying here. It certainly is not studying."
+          },
+          {
+            "timestamp": "2024-05-03 14:39",
+            "content": "Jack: No, certainly not. Michael arranged for me to work at his uncle's institution."
+          },
+          {
+            "timestamp": "2024-05-03 14:40",
+            "content": "You: How much will you be paid?"
+          },
+          {
+            "timestamp": "2024-05-03 14:41",
+            "content": "Jack: Judy, I don't do it for money, but for experience. Besides, it's voluntary work."
+          },
+          {
+            "timestamp": "2024-05-03 14:42",
+            "content": "You: You work without payment? That's really something."
+          },
+          {
+            "timestamp": "2024-05-03 14:43",
+            "content": "Jack: When will you leave for home?"
+          },
+          {
+            "timestamp": "2024-05-03 14:44",
+            "content": "You: Tomorrow. We'll fly to Hawaii two days after. I really have to pack now."
+          },
+          {
+            "timestamp": "2024-05-03 14:45",
+            "content": "Jack: Go then. Have a nice vacation!"
+          },
+          {
+            "timestamp": "2024-05-03 14:46",
+            "content": "You: I'll send you postcards."
+          }
+        ]
+      },
+      {
+        "date": "2024-05-15",
+        "messages": [
+          {
+            "timestamp": "2024-05-15 17:03",
+            "content": "You: Hey Jack, how's the volunteer work going so far?"
+          },
+          {
+            "timestamp": "2024-05-15 17:15",
+            "content": "Jack: It's been challenging but really rewarding. I'm learning a lot!"
+          },
+          {
+            "timestamp": "2024-05-15 17:17",
+            "content": "You: That's great to hear. Let me know if you need anything!"
+          },
+          {
+            "timestamp": "2024-05-15 17:20",
+            "content": "Jack: Thanks Judy, will do. Enjoy Hawaii!"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-12",
+        "messages": [
+          {
+            "timestamp": "2024-06-12 11:08",
+            "content": "Jack: Guess what? The institution was so impressed with my work that they offered me a paid part-time position for the rest of the summer!"
+          },
+          {
+            "timestamp": "2024-06-12 11:12",
+            "content": "You: Wow, congratulations Jack! That's fantastic news. You must be doing an amazing job."
+          },
+          {
+            "timestamp": "2024-06-12 11:14",
+            "content": "Jack: Thanks! I'm really excited. It'll be great to get more experience and earn some money too."
+          },
+          {
+            "timestamp": "2024-06-12 11:16",
+            "content": "You: Definitely, sounds like an ideal situation. Keep up the awesome work!"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-10",
+        "messages": [
+          {
+            "timestamp": "2024-07-10 19:31",
+            "content": "You: Hi Jack, how are things going? How's the job?"
+          },
+          {
+            "timestamp": "2024-07-10 19:38",
+            "content": "Jack: Things are going really well! I'm learning so much and taking on more responsibilities. I'm so glad I decided to stay and do this."
+          },
+          {
+            "timestamp": "2024-07-10 19:40",
+            "content": "You: That's wonderful. Sounds like you made the right call to get this valuable experience."
+          },
+          {
+            "timestamp": "2024-07-10 19:43",
+            "content": "Jack: For sure. It's been eye-opening. I'm planning to go visit my family for a week in August before school starts again."
+          },
+          {
+            "timestamp": "2024-07-10 19:45",
+            "content": "You: Oh good, I'm sure they'll be happy to see you and hear all about your summer. You deserve a nice break!"
+          },
+          {
+            "timestamp": "2024-07-10 19:48",
+            "content": "Jack: Yeah, it'll be good to see them and recharge a bit. Thanks again for your encouragement and checking in on me, Judy. It means a lot."
+          },
+          {
+            "timestamp": "2024-07-10 19:50",
+            "content": "You: Of course! That's what friends are for. Let's definitely catch up in person once you're back on campus."
+          },
+          {
+            "timestamp": "2024-07-10 19:52",
+            "content": "Jack: Absolutely! I'd love that. I'll text you when I'm back."
+          },
+          {
+            "timestamp": "2024-07-10 19:54",
+            "content": "You: Sounds great. Talk to you then!"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T14:13:50.718672"
+}

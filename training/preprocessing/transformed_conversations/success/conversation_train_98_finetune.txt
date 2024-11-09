@@ -1,0 +1,33 @@
+[START DATE]
+2024-06-04
+[END DATE]
+2024-07-08
+[CHAT MESSAGES]
+2024-06-04 13:24 | You: What kind of place shall we rent?
+2024-06-04 13:26 | Sarah: It should be close to the university. Neither of us are good at getting up in the mornings and closer it is, the later we can get up.
+2024-06-04 13:27 | You: Absolutely. That's the most important thing to take into consideration. I'm not too worried about the size of the flat.
+2024-06-04 13:29 | Sarah: Neither am I. So a small place is ok, but we'll get a bigger one if it's not expensive. Do you mind if it's in a noisy area?
+2024-06-04 13:32 | You: I don't mind. I'm not a light sleeper, but quieter is better for when we have to study at home.
+2024-06-04 13:35 | Sarah: Good point. Ok, let's go to the estate agent and see what they can offer us.
+2024-06-04 13:37 | You: Yes, if we're lucky we'll find something in the next few days. I think you had a good idea to start flat hunting early.
+2024-06-04 13:39 | Sarah: How much do you think the rent will be?
+2024-06-04 13:41 | You: I asked a few people who are already living in places near the university and they said it would cost about one hundred pounds a month.
+2024-06-05 10:02 | You: That was a productive meeting with the estate agent yesterday. Sounds like we have a few good options in our price range.
+2024-06-05 10:15 | Sarah: Definitely! I'm going to keep an eye on the new listings too in case any other gems pop up.
+2024-06-16 17:22 | Sarah: I think I found the perfect place for us! Just posted. 1-bed flat on a quiet street, only a 12 min walk to campus. Want to see pics?
+2024-06-16 17:30 | You: Wow that was fast! Yes, send them over. What's the rent?
+2024-06-16 17:33 | Sarah: £550/month. I know it's higher than we hoped but it looks so nice and checks all our boxes. Here are the pics! [images]
+2024-06-16 17:41 | You: Oh I really like it. Spacious living room, nice natural light. And the location is ideal. I think it's worth a look in person.
+2024-06-16 17:45 | Sarah: My thoughts exactly! I'll contact the agent to schedule a viewing ASAP before it gets snatched up.
+2024-07-08 11:10 | Sarah: We got the flat!!! Just got the email from the estate agent. Our application was approved!
+2024-07-08 11:14 | You: No way!!! That's amazing news! I was so nervous after the viewing, I know they had a lot of interest. We're so lucky.
+2024-07-08 11:17 | Sarah: Right? The agent said our application really stood out. I can't believe we got our dream place.
+2024-07-08 11:20 | You: When do we get the keys? Need to start planning the move and buying furniture!
+2024-07-08 11:24 | Sarah: We can sign the lease and get the keys in 2 weeks, on the 22nd. The place looked move-in ready so we should be able to get settled well before classes start.
+2024-07-08 11:28 | You: Fantastic. I'll start looking into hiring movers and vans. Let the flat decorating begin!
+[SUMMARY]
+Here's a summary of your interactions with Sarah about finding a place to rent near the university. Back in early June, about two and a half months ago, you and Sarah first discussed what kind of place to look for. You agreed proximity to campus was key so you could sleep in later. A smaller, affordable place was fine, ideally quieter for studying. 
+
+The next day, you went to the estate agent together to see the options. Then in mid-June, Sarah found a promising listing and you scheduled a viewing. When you saw it in person, it looked perfect - a cozy 1-bedroom within walking distance in a peaceful neighborhood. The rent was £550/month, pricier than the £100 you'd originally hoped for, but reasonable split between two. 
+
+After moving forward with the application, there was an anxious two-week wait. Finally, in early July, great news - your application was approved! Over the past month, you've been coordinating with Sarah on moving logistics, buying essentials, and getting settled in before classes start in September. It's been a hectic summer, but you're excited to begin this new chapter in the ideal flat for you both.

@@ -1,0 +1,110 @@
+{
+  "original_id": "train_158",
+  "topic": "childbirth",
+  "original_summary": "#Person2#'s husband isn't there when #Person2#'s going to give birth. #Person2# tells #Person1# she's asked her older sister to help.",
+  "transformed_conversations": {
+    "today_date": "2024-07-18",
+    "personal_summary": "Here's a summary of your interactions with Sarah over the past few months regarding her pregnancy and childbirth. Back in early May, Sarah first told you that she was pregnant but her husband Mr. Schmidt was away and unreachable. You expressed surprise that he would be coming home to big news. \n\nA week later in mid-May, Sarah shared that her older sister Judy would be coming to help, since Judy already had two kids of her own. Later that same day, you saw a red van pull up and asked if it was Judy arriving.\n\nThen in early June, about a month after first learning of the pregnancy, Sarah messaged to let you know she was heading to the hospital and that Judy was driving her. The next day, Sarah sent a photo of her healthy newborn baby girl. \n\nA couple weeks after that in late June, you checked in and Sarah said adjusting to caring for a newborn was hard but that Judy had been a huge help. She also mentioned her husband would be home soon.\n\nFinally, just last week, Sarah excitedly told you that her husband had returned home and was overjoyed to meet his new daughter for the first time. \n\nSo in summary, over the past two and a half months, you've followed Sarah's journey from first learning of her pregnancy in early May, to her sister arriving to help in mid-May, the birth of her daughter in early June, and her husband's return home just last week in mid-July to meet his new child. It's been quite an eventful time in Sarah's life with many big developments and changes.",
+    "conversations": [
+      {
+        "date": "2024-05-07",
+        "messages": [
+          {
+            "timestamp": "2024-05-07 14:22",
+            "content": "Sarah: I just found out I'm pregnant! But Mr. Schmidt is away on that remote research trip. There's no way to contact him."
+          },
+          {
+            "timestamp": "2024-05-07 14:25",
+            "content": "You: Does Mr. Schmidt know he's going to become a father?"
+          },
+          {
+            "timestamp": "2024-05-07 14:27",
+            "content": "Sarah: No, and I have no way of getting ahold of him! There's no phone where he's at!"
+          },
+          {
+            "timestamp": "2024-05-07 14:29",
+            "content": "You: Well, he has a surprise waiting for him when he gets back, doesn't he!"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-14",
+        "messages": [
+          {
+            "timestamp": "2024-05-14 11:04",
+            "content": "Sarah: My older sister Judy will be here soon to help. She already has a boy and a girl of her own. . ."
+          },
+          {
+            "timestamp": "2024-05-14 11:06",
+            "content": "You: I just saw a red van pulling into the driveway. Is that her?"
+          },
+          {
+            "timestamp": "2024-05-14 11:09",
+            "content": "Sarah: Yes, that's Judy! She's going to be such a big help. I'm glad she can be here."
+          }
+        ]
+      },
+      {
+        "date": "2024-06-03",
+        "messages": [
+          {
+            "timestamp": "2024-06-03 09:15",
+            "content": "Sarah: Heading to the hospital now. I think it's time! Judy is driving me. Wish me luck!"
+          },
+          {
+            "timestamp": "2024-06-03 09:17",
+            "content": "You: Wishing you a safe and smooth delivery! Can't wait to hear the good news. You got this!"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-04",
+        "messages": [
+          {
+            "timestamp": "2024-06-04 13:41",
+            "content": "Sarah: <photo of newborn baby girl>"
+          },
+          {
+            "timestamp": "2024-06-04 13:41",
+            "content": "Sarah: Welcome to the world, little Ava! Born this morning at 7lbs 3oz. We're both doing great!"
+          },
+          {
+            "timestamp": "2024-06-04 13:45",
+            "content": "You: Oh she's absolutely perfect, Sarah! Congratulations! I'm so happy for you. Give Ava a cuddle for me!"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-18",
+        "messages": [
+          {
+            "timestamp": "2024-06-18 10:19",
+            "content": "You: How's life with the new little one? Is Judy still helping out?"
+          },
+          {
+            "timestamp": "2024-06-18 10:26",
+            "content": "Sarah: Adjusting to newborn life is no joke! I'm exhausted. But Judy has been amazing. I'm so grateful she's here. Ava is wonderful but definitely a handful."
+          },
+          {
+            "timestamp": "2024-06-18 10:28",
+            "content": "Sarah: I can't wait for my husband to meet her. He should be back home in a couple weeks!"
+          }
+        ]
+      },
+      {
+        "date": "2024-07-12",
+        "messages": [
+          {
+            "timestamp": "2024-07-12 18:33",
+            "content": "Sarah: He's back!!! Mr. Schmidt arrived home today and got to hold Ava for the first time. I think he fell in love instantly. I'm so glad our family is together now."
+          },
+          {
+            "timestamp": "2024-07-12 18:37",
+            "content": "You: Aww what a special moment! I'm so happy for all three of you. I'm sure Mr. Schmidt is over the moon to meet his daughter. Enjoy this precious family time together!"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T13:48:23.305203"
+}

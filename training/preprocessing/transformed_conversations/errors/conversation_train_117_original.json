@@ -1,0 +1,10 @@
+{
+  "original_id": "train_117",
+  "error": "Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",
+  "timestamp": "2024-11-08T13:14:01.747773",
+  "original_data": {
+    "topic": "tourist party",
+    "summary": "#Person1# helps #Person2# book four single rooms, five double rooms, and three suites for a tourist party from tomorrow till January 8th with a deposit of 500 yuan and gives #Person2# a 15% discount.",
+    "dialogue": "#Person1#: Good morning, Madam. This is room service, may I help you?\n#Person2#: Good morning. I'd like to reserve some rooms for a tourist party.\n#Person1#: All right. What kind of room would you like?\n#Person2#: You see, we are tourists whose requests are different, so please tell me more about it, will you?\n#Person1#: It's my pleasure. We have single rooms, double rooms, suites and luxury suites, ect. Well, here is an introduction to our hotel.\n#Person2#: That's great. I'd like to book four single rooms, five double rooms and three suites.\n#Person1#: All right, madam. For which dates do you want to book the rooms?\n#Person2#: From tomorrow till January 8th. That's five days in all.\n#Person1#: I see. Now please fill out the form.\n#Person2#: Here you are. Is everything OK?\n#Person1#: Just a minute, madam. You should pay a deposit of 500 yuan beforehand.\n#Person2#: OK. Here you are.\n#Person1#: Thank you. Please keep this receipt.\n#Person2#: Thank you. By the way, is there any preferential rate for the party?\n#Person1#: Yes, there is a 15 percent discount.\n#Person2#: That's wonderful. Thank you.\n#Person1#: You're welcome. I hope all of you will have a good time here."
+  }
+}

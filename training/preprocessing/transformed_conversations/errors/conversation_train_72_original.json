@@ -1,0 +1,10 @@
+{
+  "original_id": "train_72",
+  "error": "Unexpected response format",
+  "timestamp": "2024-11-08T12:38:17.454496",
+  "original_data": {
+    "topic": "phone call",
+    "summary": "Tom tells #Person2# to finish something on time. #Person2# can't hear clearly because there's a problem with the line.",
+    "dialogue": "#Person1#: . . . So what I think we need to do is ( XXXXXXXXXX ) finish on time.\n#Person2#: Sorry, Tom, can you say that last bit again please? We didn't get that.\n#Person1#: Oh, OK, I said ( XXXXXXXXXX ) on time.\n#Person2#: Sorry Tom, We're having problems hearing you here. It's a bit hissy. Can you hear us?\n#Person1#: ( XXXXXXXXXX )\n#Person2#: Hello?\n#Person1#: ( XXXXXXXXXX ) but I don't think you can hear us. ( XXXXXXXXXX ) Hello? ( XXXXXXXXXX )\n#Person2#: Tom, if you can hear me, I think we've lost you. There's a problem with the line. Let's try again. We'll call you.\n#Person1#: ( XXXXXXXXXX ) OK ( XXXXXXXXXX )."
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "original_id": "train_3",
+  "topic": "have a girlfriend",
+  "original_summary": "#Person1#'s angry because #Person2# didn't tell #Person1# that #Person2# had a girlfriend and would marry her.",
+  "transformed_conversations": {
+    "today_date": "2024-08-17",
+    "personal_summary": "Here's a summary of your interactions with John over the past few months regarding his girlfriend and upcoming marriage:\n\nBack in early March, you first found out John had a girlfriend when you confronted him about not telling you. He apologized but seemed to think it wasn't a big deal. This led to a heated argument. In the following weeks, you had some brief exchanges where he shared a few more details, but you were still upset about being kept in the dark. \n\nThen in late April, John casually mentioned they were engaged, which completely blindsided you. How could your close friend not tell you something so monumental? You had a long, emotional conversation about your friendship. Over the next couple months, John tried to repair things by opening up more - he told you how he proposed in May, shared their wedding plans in June, and even asked you to be a groomsman in July. While you appreciated his efforts, you still felt hurt by his initial secrecy. \n\nEarlier this month, you met his fianc\u00e9e for the first time. Seeing them together and how happy John is has softened you considerably. With their fall wedding approaching, you're doing your best to be supportive, despite the rockiness of the past few months. John is still one of your oldest friends, after all. You're working on fully forgiving him and focusing on celebrating this exciting next chapter in his life.",
+    "conversations": [
+      {
+        "date": "2024-03-06",
+        "messages": [
+          {
+            "timestamp": "2024-03-06 14:32",
+            "content": "You: Why didn't you tell me you had a girlfriend?"
+          },
+          {
+            "timestamp": "2024-03-06 14:40",
+            "content": "John: Sorry, I thought you knew."
+          },
+          {
+            "timestamp": "2024-03-06 14:41",
+            "content": "You: But you should tell me you were in love with her."
+          },
+          {
+            "timestamp": "2024-03-06 14:45",
+            "content": "John: Didn't I?"
+          },
+          {
+            "timestamp": "2024-03-06 14:46",
+            "content": "You: You know you didn't."
+          },
+          {
+            "timestamp": "2024-03-06 14:50",
+            "content": "John: Well, I am telling you now."
+          },
+          {
+            "timestamp": "2024-03-06 14:51",
+            "content": "You: Yes, but you might have told me before."
+          },
+          {
+            "timestamp": "2024-03-06 14:55",
+            "content": "John: I didn't think you would be interested."
+          },
+          {
+            "timestamp": "2024-03-06 14:56",
+            "content": "You: You can't be serious. How dare you not tell me you are going to marry her?"
+          },
+          {
+            "timestamp": "2024-03-06 15:02",
+            "content": "John: Sorry, I didn't think it mattered."
+          },
+          {
+            "timestamp": "2024-03-06 15:03",
+            "content": "You: Oh, you men! You are all the same."
+          }
+        ]
+      },
+      {
+        "date": "2024-03-20",
+        "messages": [
+          {
+            "timestamp": "2024-03-20 17:05",
+            "content": "You: So how long have you been dating this girl anyway?"
+          },
+          {
+            "timestamp": "2024-03-20 17:12",
+            "content": "John: A little over a year now. I'm sorry again for not telling you sooner."
+          },
+          {
+            "timestamp": "2024-03-20 17:15",
+            "content": "You: A YEAR?! Wow. Okay."
+          },
+          {
+            "timestamp": "2024-03-20 17:16",
+            "content": "John: I really didn't mean to keep it from you. It just never seemed like the right time to bring it up."
+          },
+          {
+            "timestamp": "2024-03-20 17:20",
+            "content": "You: Sure, whatever you say."
+          }
+        ]
+      },
+      {
+        "date": "2024-04-28",
+        "messages": [
+          {
+            "timestamp": "2024-04-28 11:18",
+            "content": "John: Hey, just wanted to let you know Stephanie and I got engaged last weekend. Thought you should hear it from me."
+          },
+          {
+            "timestamp": "2024-04-28 11:23",
+            "content": "You: Engaged?? Seriously? After dating for barely a year?"
+          },
+          {
+            "timestamp": "2024-04-28 11:25",
+            "content": "John: When you know, you know. I love her and want to spend my life with her."
+          },
+          {
+            "timestamp": "2024-04-28 11:30",
+            "content": "You: I just can't believe you didn't tell me any of this until now. I thought we were close."
+          },
+          {
+            "timestamp": "2024-04-28 11:32",
+            "content": "John: I know, I messed up. Your friendship means so much to me. I want you to be part of this. Can we get together soon and talk more?"
+          },
+          {
+            "timestamp": "2024-04-28 11:38",
+            "content": "You: I don't know, I need some time to process this. But congrats, I guess."
+          }
+        ]
+      },
+      {
+        "date": "2024-05-15",
+        "messages": [
+          {
+            "timestamp": "2024-05-15 19:02",
+            "content": "John: I really want to clear the air about everything. Our friendship is important to me. Can we grab a beer and talk? I'll tell you the whole story about Steph and me."
+          },
+          {
+            "timestamp": "2024-05-15 19:10",
+            "content": "You: Fine, I suppose I can hear you out. But no more secrets, got it?"
+          },
+          {
+            "timestamp": "2024-05-15 19:12",
+            "content": "John: Absolutely, I swear. Thanks for giving me a chance to explain. How's tomorrow night?"
+          },
+          {
+            "timestamp": "2024-05-15 19:15",
+            "content": "You: Okay, tomorrow works. See you then."
+          }
+        ]
+      },
+      {
+        "date": "2024-06-10",
+        "messages": [
+          {
+            "timestamp": "2024-06-10 13:28",
+            "content": "John: Just wanted to give you a heads up - Steph and I picked a date and booked a venue! Wedding will be October 12th."
+          },
+          {
+            "timestamp": "2024-06-10 13:34",
+            "content": "You: Wow, that's fast. Guess you're not wasting any time."
+          },
+          {
+            "timestamp": "2024-06-10 13:37",
+            "content": "John: Well we're just excited to start our life together. I really hope you'll be there to celebrate with us."
+          },
+          {
+            "timestamp": "2024-06-10 13:40",
+            "content": "You: Of course, I wouldn't miss it. Keep me posted on the plans."
+          }
+        ]
+      },
+      {
+        "date": "2024-07-18",
+        "messages": [
+          {
+            "timestamp": "2024-07-18 16:45",
+            "content": "John: Hey man, I've been meaning to ask - would you be one of my groomsmen? It would really mean a lot to have you by my side."
+          },
+          {
+            "timestamp": "2024-07-18 16:50",
+            "content": "You: Oh wow, I'm honored. Yes, I'd be happy to. Thank you for asking me."
+          },
+          {
+            "timestamp": "2024-07-18 16:52",
+            "content": "John: Amazing, thanks so much! I know it's been a weird year for us but your support means everything. I want you to get to know Steph better too. I think you'll really like her."
+          },
+          {
+            "timestamp": "2024-07-18 16:55",
+            "content": "You: I'm looking forward to meeting her. And I'm sorry I've been weird about all this. I just want you to be happy."
+          },
+          {
+            "timestamp": "2024-07-18 16:58",
+            "content": "John: I know, I get it. But I am, truly. And having my best friend with me on my wedding day will make it even better."
+          }
+        ]
+      },
+      {
+        "date": "2024-08-05",
+        "messages": [
+          {
+            "timestamp": "2024-08-05 21:07",
+            "content": "You: It was great finally meeting Stephanie tonight. I can see how happy you two are together."
+          },
+          {
+            "timestamp": "2024-08-05 21:15",
+            "content": "John: I'm so glad you guys got along well! I knew you would. She's really excited to have you in the wedding party too."
+          },
+          {
+            "timestamp": "2024-08-05 21:18",
+            "content": "You: The way you look at her - I've never seen you like this before. I'm really happy for you, man."
+          },
+          {
+            "timestamp": "2024-08-05 21:20",
+            "content": "John: That means so much, thank you. And thanks for being such a good sport through all of this. I know I kind of sprung it on you."
+          },
+          {
+            "timestamp": "2024-08-05 21:24",
+            "content": "You: I won't lie, it stung at first, but I'm just glad we're in a good place now. Can't wait to celebrate with you two in a couple months!"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T11:34:52.552772"
+}

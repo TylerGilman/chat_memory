@@ -1,0 +1,145 @@
+{
+  "original_id": "train_181",
+  "topic": "concert invitation",
+  "original_summary": "Mac calls Lucy to ask her out for the concert tomorrow but Lucy has an appointment already. So Mac changes the time till next week and Lucy gladly agrees.",
+  "transformed_conversations": {
+    "today_date": "2024-05-18",
+    "personal_summary": "Here's a summary of your interactions with Lucy over the past couple months, Mac. It all started back on March 12th when you first invited her to that pop concert. She was busy that weekend but seemed excited when you suggested going the following Saturday instead. \n\nThe concert ended up being a blast - you two really hit it off and started texting more regularly after that. In early April, about a month after the concert, Lucy confided in you about some family issues she was dealing with. You were there to lend an ear and offer support.\n\nA few weeks later, in late April, you invited Lucy to join you and some friends for a casual hike. She was happy to come along and get to know your friend group better. Everyone got along great.\n\nJust last week, you made plans to grab dinner together this weekend, just the two of you. She seemed really looking forward to it and you felt like your connection has grown a lot since that first concert invite. \n\nIt's been a fun couple months getting to know Lucy better. What started as a simple concert invite has blossomed into a close friendship, and maybe even the potential for something more. You're excited to see where things go from here.",
+    "conversations": [
+      {
+        "date": "2024-03-12",
+        "messages": [
+          {
+            "timestamp": "2024-03-12 14:32",
+            "content": "You: Hey Lucy, it's Mac. I was wondering if you'd like to go to a pop concert with me tomorrow night? I remember you mentioned you like that kind of music."
+          },
+          {
+            "timestamp": "2024-03-12 14:45",
+            "content": "Lucy: Hi Mac, that's so nice of you to invite me! I would love to but I actually have plans with Margaret tomorrow already, we're going to the movies."
+          },
+          {
+            "timestamp": "2024-03-12 14:47",
+            "content": "You: No worries, I understand. What about next Saturday, the 18th? I think the concert is still running then if you're free?"
+          },
+          {
+            "timestamp": "2024-03-12 14:51",
+            "content": "Lucy: Next Saturday would be great! The concert won't interfere with my basketball game that day. What time does it start?"
+          },
+          {
+            "timestamp": "2024-03-12 14:52",
+            "content": "You: Awesome! It starts at 7pm."
+          },
+          {
+            "timestamp": "2024-03-12 14:54",
+            "content": "Lucy: Perfect, I'll definitely be done with basketball by then. Looking forward to it!"
+          },
+          {
+            "timestamp": "2024-03-12 14:55",
+            "content": "You: Great, I'll give you a call once I have the tickets sorted out. See you then!"
+          }
+        ]
+      },
+      {
+        "date": "2024-04-02",
+        "messages": [
+          {
+            "timestamp": "2024-04-02 18:21",
+            "content": "Lucy: Hey Mac, just wanted to say thanks again for inviting me to that concert last weekend. I had a really great time hanging out with you!"
+          },
+          {
+            "timestamp": "2024-04-02 18:25",
+            "content": "You: I had a blast too! We'll have to do something like that again sometime. I'm really glad you enjoyed yourself."
+          },
+          {
+            "timestamp": "2024-04-02 18:27",
+            "content": "Lucy: Definitely! Keep me posted on any other fun plans :) How's your week going so far?"
+          }
+        ]
+      },
+      {
+        "date": "2024-04-09",
+        "messages": [
+          {
+            "timestamp": "2024-04-09 13:03",
+            "content": "Lucy: Hey Mac, do you have a few minutes to chat? I could really use a friend to talk to right now..."
+          },
+          {
+            "timestamp": "2024-04-09 13:05",
+            "content": "You: Of course, I'm here for you. What's going on? Is everything okay?"
+          },
+          {
+            "timestamp": "2024-04-09 13:09",
+            "content": "Lucy: I'm just feeling really overwhelmed... My parents are going through some stuff and it's bringing up a lot for me. I don't want to dump it all on you but I guess I'm not sure who else to talk to about it."
+          },
+          {
+            "timestamp": "2024-04-09 13:11",
+            "content": "You: I'm so sorry you're going through that. Please don't feel like you're burdening me, I'm always happy to listen and help however I can. Do you want to share more about what's happening with your parents?"
+          },
+          {
+            "timestamp": "2024-04-09 13:15",
+            "content": "Lucy: I really appreciate you saying that Mac, it means a lot to have your support. Basically they've been fighting a lot lately and I'm worried they might be heading for a divorce... It's just bringing up some hard memories from when I was a kid. Anyway, I won't get into all the details but thank you for being there and letting me vent a bit."
+          },
+          {
+            "timestamp": "2024-04-09 13:17",
+            "content": "You: Gosh, that sounds really tough. I can only imagine how painful and scary that must feel. You can always vent to me, I'm here for you. Just remember their issues aren't your fault. Is there anything I can do to help take your mind off things?"
+          },
+          {
+            "timestamp": "2024-04-09 13:20",
+            "content": "Lucy: You're already helping a lot just by listening and being so understanding :) I may take you up on that offer to hang out again soon, it'd be good to get out of my own head for a bit. I'll let you know. Thanks again Mac, you're a good friend."
+          }
+        ]
+      },
+      {
+        "date": "2024-04-23",
+        "messages": [
+          {
+            "timestamp": "2024-04-23 10:42",
+            "content": "You: Hey Lucy! Some friends and I are going for a hike this afternoon at Ridgeline Trail. Super chill, nothing too strenuous. Any chance you'd want to join? We'd love to have you!"
+          },
+          {
+            "timestamp": "2024-04-23 10:50",
+            "content": "Lucy: That sounds really nice actually! I could definitely use some fresh air and good company. What time are you guys going?"
+          },
+          {
+            "timestamp": "2024-04-23 10:52",
+            "content": "You: We're planning to head out around 1pm. Want to carpool together? I can swing by and pick you up."
+          },
+          {
+            "timestamp": "2024-04-23 10:55",
+            "content": "Lucy: That would be perfect, thanks! I'll pack some snacks and water. Looking forward to it, see you in a bit!"
+          }
+        ]
+      },
+      {
+        "date": "2024-05-11",
+        "messages": [
+          {
+            "timestamp": "2024-05-11 16:28",
+            "content": "You: Hey stranger, how's your week going? I was thinking, we haven't had a chance to catch up just the two of us in a while. Would you maybe want to grab dinner this weekend?"
+          },
+          {
+            "timestamp": "2024-05-11 16:34",
+            "content": "Lucy: Hi you! Aw I'd really love that. I agree, it's been too long since we've had some quality one-on-one time. My weekend is pretty open so just let me know what day works best for you!"
+          },
+          {
+            "timestamp": "2024-05-11 16:37",
+            "content": "You: How about Saturday night? We could try that new Italian place downtown if you're up for it."
+          },
+          {
+            "timestamp": "2024-05-11 16:39",
+            "content": "Lucy: Ooh I've been wanting to go there! Saturday works great. Want to aim for 7ish?"
+          },
+          {
+            "timestamp": "2024-05-11 16:40",
+            "content": "You: It's a date! Well I mean, not a \"date\" date. You know what I mean. I'll make us a reservation :) Looking forward to it!"
+          },
+          {
+            "timestamp": "2024-05-11 16:42",
+            "content": "Lucy: Haha I know what you mean. Can't wait, see you then!"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T14:10:52.693619"
+}

@@ -1,0 +1,10 @@
+{
+  "original_id": "train_112",
+  "error": "Error code: 529 - {'type': 'error', 'error': {'type': 'overloaded_error', 'message': 'Overloaded'}}",
+  "timestamp": "2024-11-08T13:13:35.944672",
+  "original_data": {
+    "topic": "coffee",
+    "summary": "#Person2# likes Irish coffee and buys takeout at Starbucks. #Person1# and #Person2# talk about the advantages of instant coffee and Western and Chinese people's attitudes towards coffee.",
+    "dialogue": "#Person1#: What is your favorite coffee?\n#Person2#: Irish coffee is my favorite. But I'm not particular on it.\n#Person1#: All right. Would you make coffee yourself when you are at home?\n#Person2#: Not very often. Making coffee is a bit troublesome. Most of the time, I just buy takeout at Starbucks. And also, I quite like instant coffee.\n#Person1#: I think instant coffee is becoming more and more popular. Though its taste is not perfect, it's really cheap and convenient.\n#Person2#: Exactly. Nescafe is the world's favorite coffee. People love it all over the world.\n#Person1#: I agree. I heard that in the western countries, almost everyone likes coffee. Is that true?\n#Person2#: Yes. No doubt about that. For us, coffee is more a living style rather than a simple drink. I heard Chinese people don't drink that much coffee.\n#Person1#: No, we don't, especially the elder people. But more and more young people fall for coffee nowadays.\n#Person2#: I suppose so. That's probably why there are so many wonderful coffee houses in China now."
+  }
+}

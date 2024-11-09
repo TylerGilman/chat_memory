@@ -1,0 +1,128 @@
+{
+  "original_id": "train_95",
+  "topic": "class dinner plan",
+  "original_summary": "#Person1# and #Person2# are planning the class dinner for the end of the year. They discuss the place and the cost, and decide to fix the amount first and ask a restaurant to provide a meal for that price.",
+  "transformed_conversations": {
+    "today_date": "2024-06-17",
+    "personal_summary": "Here's a summary of your interactions with Sam regarding planning the class dinner over the last couple months. \nBack in mid-April, about two months ago, you and Sam first discussed potential restaurant options, with some classmates favoring pizza while you preferred trying something different. Sam mentioned the Bamboo House but you pointed out it would be closed for renovations. You remembered a nice place with live music but agreed it wouldn't work well for a large, lively group. \nA few weeks later in early May, you wisely raised the issue of cost, realizing people had different budget constraints. Sam had the great idea to set a fixed price and find a restaurant willing to accommodate that. You suggested making a list of options and having the class vote.\nAs May progressed, you worked together to compile a restaurant short list and get quotes. Last week, the class selected Riverside Grill as the best choice. Just yesterday, Sam confirmed the reservation details with you for the dinner taking place next Friday, June 28th. \nIt's been a productive collaboration over the past two months, from the initial brainstorming in April, through the May planning phase, to now having everything settled here in mid-June. You've done well working as a team to consider everyone's preferences, proactively address potential issues like budget and group size, and make a democratic final decision. The class dinner should be a great event to celebrate the end of the school year together!",
+    "conversations": [
+      {
+        "date": "2024-04-19",
+        "messages": [
+          {
+            "timestamp": "2024-04-19 15:32",
+            "content": "You: Let's plan the dinner for the end of the year."
+          },
+          {
+            "timestamp": "2024-04-19 15:35",
+            "content": "Sam: I've been talking to some of the other kids in the class and quite a few of them want to go to a pizza restaurant."
+          },
+          {
+            "timestamp": "2024-04-19 15:37",
+            "content": "You: Um, I think I've had enough of pizza. I eat it at least twice a week, it be good to have something different."
+          },
+          {
+            "timestamp": "2024-04-19 15:39",
+            "content": "Sam: Well, there's that Chinese restaurant. The bamboo house."
+          },
+          {
+            "timestamp": "2024-04-19 15:41",
+            "content": "You: It's closing next week for a month. They're going to build a new kitchen or something. I remember going to someplace with a singer and guitarist. And it was great."
+          },
+          {
+            "timestamp": "2024-04-19 15:44",
+            "content": "Sam: But there will be at least 20 of us, will be so noisy that we won't hear the music."
+          },
+          {
+            "timestamp": "2024-04-19 15:47",
+            "content": "You: You're right. Hey, we haven't thought about the cost. Some people will want to go to a cheap place, and others can afford somewhere more expensive."
+          },
+          {
+            "timestamp": "2024-04-19 15:50",
+            "content": "Sam: Why don't we fix the amount first and ask a restaurant to provide a meal for that price?"
+          },
+          {
+            "timestamp": "2024-04-19 15:52",
+            "content": "You: That's a good idea. And we can make a list of the places we think our best, and get the rest of the class to choose one."
+          }
+        ]
+      },
+      {
+        "date": "2024-05-03",
+        "messages": [
+          {
+            "timestamp": "2024-05-03 11:14",
+            "content": "You: Hey Sam, I've been thinking more about the restaurant options for the class dinner. What do you think is a reasonable per person budget?"
+          },
+          {
+            "timestamp": "2024-05-03 11:20",
+            "content": "Sam: Based on what I've heard, seems like $25-30 per person is what most are comfortable with. Sound okay to you?"
+          },
+          {
+            "timestamp": "2024-05-03 11:23",
+            "content": "You: Yeah, that range should give us some solid options without being too pricey. Let's aim for that when we request quotes."
+          },
+          {
+            "timestamp": "2024-05-03 11:25",
+            "content": "Sam: \ud83d\udc4d I'll work on a list of possible places and share it with you by Monday. Then we can divide and conquer to get pricing."
+          },
+          {
+            "timestamp": "2024-05-03 11:28",
+            "content": "You: Perfect, thanks Sam! I appreciate you taking the lead on getting that list together."
+          }
+        ]
+      },
+      {
+        "date": "2024-05-15",
+        "messages": [
+          {
+            "timestamp": "2024-05-15 13:03",
+            "content": "Sam: Okay, we've got quotes from 5 places that can do a multi-course meal in our price range for 20-25 people. I'll send the list to the class for a vote."
+          },
+          {
+            "timestamp": "2024-05-15 13:05",
+            "content": "You: Awesome! I'm so glad we got such a good response. I trust our classmates to pick a tasty option."
+          },
+          {
+            "timestamp": "2024-05-15 13:09",
+            "content": "Sam: For sure. Hey, I wanted to double check - the dinner is Friday, June 28th at 7pm, right?"
+          },
+          {
+            "timestamp": "2024-05-15 13:11",
+            "content": "You: Yep, that's the plan! End of year celebration dinner on the 28th at 7. I've got it in my calendar \ud83d\udcc5"
+          },
+          {
+            "timestamp": "2024-05-15 13:14",
+            "content": "Sam: Great, just wanted to make sure we're on the same page. I'll include those details in the vote email. Thanks again for all your help planning this!"
+          },
+          {
+            "timestamp": "2024-05-15 13:17",
+            "content": "You: Happy to help! It'll be a really fun way to wrap up the school year. Looking forward to it!"
+          }
+        ]
+      },
+      {
+        "date": "2024-06-16",
+        "messages": [
+          {
+            "timestamp": "2024-06-16 17:36",
+            "content": "Sam: Just got the final tally - Riverside Grill won the vote by a landslide! I called and confirmed the reservation for 7pm on the 28th. We're all set!"
+          },
+          {
+            "timestamp": "2024-06-16 17:39",
+            "content": "You: Oh that's fantastic! Riverside Grill is supposed to be really good. I'm so excited for this dinner, and really appreciate all your hard work making it happen!"
+          },
+          {
+            "timestamp": "2024-06-16 17:42",
+            "content": "Sam: Couldn't have done it without you! I think everyone's going to have a blast. One last hurrah before summer break!"
+          },
+          {
+            "timestamp": "2024-06-16 17:45",
+            "content": "You: Absolutely! \ud83c\udf89 See you in class tomorrow - one more week to go. Then we can celebrate an awesome year and sendoff at Riverside!"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": "2024-11-08T12:58:41.276212"
+}
