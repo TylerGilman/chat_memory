@@ -139,3 +139,15 @@ mv transformed_conversations/ chat_memory/preprocessing/
 2. Move to training stage (see Training section)
 3. Develop server integration (see Server section)
 
+
+### Docker
+
+# 1. First, install Docker and NVIDIA Container Toolkit
+sudo apt-get update
+sudo apt-get install docker.io docker-compose nvidia-container-toolkit
+
+# 2. Put your training data in the data directory
+cp your_data.jsonl data/
+
+# 3. Run everything using the run script
+./run.sh

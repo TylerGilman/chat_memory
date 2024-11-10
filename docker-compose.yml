@@ -1,0 +1,20 @@
+version: '3.8'
+services:
+  trainer:
+    build: .
+    volumes:
+      - ../:/app  # Mount the entire project directory
+      - ./models:/app/docker_setup/models  # Mount models directory
+      - ./cache:/app/cache  # Mount cache directory
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - HF_TOKEN=${HF_TOKEN}
+    working_dir: /app  # Set working directory to project root
+    command: python3 training/train.py  # Run training script from project root
