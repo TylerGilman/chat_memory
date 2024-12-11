@@ -1,5 +1,3 @@
-You're right - what you want is the raw markdown text with all the formatting symbols visible. Here's how it should actually look in raw markdown format:
-
 ```markdown
 # Chat Memory Fine Tuned llama3.1 8B
 Tyler Gilman, George Bikhazi
