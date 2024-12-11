@@ -1,4 +1,3 @@
-```markdown
 # Chat Memory Fine Tuned llama3.1 8B
 Tyler Gilman, George Bikhazi
 
@@ -13,11 +12,9 @@ This project aims to create a fine-tuned LLaMA 3.1 8B model for chat memory and 
   - Creates summaries
   - Saves in both JSON and finetuning formats
 - `.env`: Configuration file containing:
-  ```
   ANTHROPIC_API_KEY=your_api_key_here
   INPUT_CSV=preprocessing/input/no_timestamps.csv 
   NUM_ROWS_TO_PROCESS=2
-  ```
 - Original dataset: `https://www.kaggle.com/datasets/marawanxmamdouh/dialogsum` (MIT License)
 - `input/no_timestamps.csv`: Original conversation data with columns:
   - `id`: Unique identifier
@@ -29,34 +26,24 @@ This project aims to create a fine-tuned LLaMA 3.1 8B model for chat memory and 
 
 ### Setup and Installation
 1. Create preprocessing directory and move files:
-```bash
 mkdir -p chat_memory/preprocessing/input
 cd chat_memory/preprocessing
-```
 
 2. Create and activate virtual environment:
-```bash
 python -m venv .trainvenv
 source .trainvenv/bin/activate  # On Windows: .trainvenv\Scripts\activate
-```
 
 3. Install requirements:
-```bash
 pip install pandas anthropic python-dotenv
-```
 
 4. Configure .env file (see format above)
 
 ### Running the Preprocessor
 1. Ensure you're in the preprocessing directory:
-```bash 
 cd chat_memory/preprocessing
-```
 
 2. Run the script:
-```bash
 python parse_and_generate.py
-```
 
 ### Output Files
 The script generates two types of files for each conversation:
@@ -73,10 +60,8 @@ The script generates two types of files for each conversation:
     "conversations": [...]
   }
 }
-```
 
 2. **Finetuning Format** (`success/conversation_[id]_finetune.txt`):
-```
 [START DATE]
 2024-01-15
 [END DATE]
@@ -87,7 +72,6 @@ The script generates two types of files for each conversation:
 ...
 [SUMMARY]
 Detailed summary of the conversation history
-```
 
 ## Model Evaluation
 The evaluation process uses two key components:
@@ -129,5 +113,3 @@ The system shows strong performance metrics:
 - Balanced precision-recall ratios
 - Natural language flow and structural coherence
 - Effective summarization strategies aligned with larger models
-```
-
