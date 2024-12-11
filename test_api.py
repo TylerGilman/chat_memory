@@ -29,7 +29,7 @@ def test_inference_endpoint(jsonl_path):
     API_URL = "https://jzyutjh6xvrcylwx.us-east-1.aws.endpoints.huggingface.cloud/v1/chat/completions"
 
     headers = {
-        "Authorization": f"Bearer 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",
+        "Authorization": f"Bearer hf_XXXXXXX",
         "Content-Type": "application/json",
     }
 
