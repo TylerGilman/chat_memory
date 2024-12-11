@@ -49,7 +49,6 @@ python parse_and_generate.py
 The script generates two types of files for each conversation:
 
 1. **Original Format** (`success/conversation_[id]_original.json`):
-```json
 {
   "original_id": "train_1",
   "topic": "vaccines", 
@@ -57,7 +56,7 @@ The script generates two types of files for each conversation:
   "transformed_conversations": {
     "today_date": "2024-05-15",
     "personal_summary": "Detailed summary...",
-    "conversations": ["..."]
+    "conversations": [...]
   }
 }
 
@@ -69,7 +68,7 @@ The script generates two types of files for each conversation:
 [CHAT MESSAGES]
 2024-01-15 09:23 | Person1: message
 2024-01-15 09:45 | Person2: message
-..
+...
 [SUMMARY]
 Detailed summary of the conversation history
 
