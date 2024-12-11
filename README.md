@@ -108,7 +108,7 @@ The system uses environment variables for configuration:
 
 ## Model Performance
 The system shows strong performance metrics:
-- ROUGE-1 F1 score of 0.4818 (approaching SOTA performance)
+- ROUGE-1 F1 score of 0.4818
 - Balanced precision-recall ratios
 - Natural language flow and structural coherence
 - Effective summarization strategies aligned with larger models
